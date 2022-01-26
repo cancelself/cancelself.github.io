@@ -1,0 +1,2 @@
+# cancelself.github.io
+.blog
