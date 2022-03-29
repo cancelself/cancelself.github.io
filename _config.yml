@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: cancelself.org
+description: tools + toys
+author: cancelself
