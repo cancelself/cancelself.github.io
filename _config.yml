@@ -3,3 +3,4 @@ plugins:
 title: cancelself.org
 description: tools + toys
 author: cancelself
+theme: jekyll-theme-hacker
