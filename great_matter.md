@@ -1,3 +1,4 @@
+![The Great Matter](./great_matter.jpg)
 # The Great Matter: Life and Death
 *** Douglas Matthew Purdy : Godō Shintan Shakya : 悟道深潭釋迦 
 
