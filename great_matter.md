@@ -48,7 +48,7 @@ A wave of silence washed over the meadow. The soldiers shifted uneasily, their w
 
 The sage's words left Alexander reeling. He had achieved what countless others had only dreamed of, yet his thirst for conquest remained unquenched. Why was this moment, with all its glory and power, not enough?
 
-In the heart of Buddhist philosophy lies a profound understanding of the human condition and the roots of our suffering. The sages of old identified three fundamental afflictions that cloud our minds, poison our hearts, and keep us trapped in an endless cycle of dissatisfaction and pain. These afflictions, known as the three poisons, are greed, hatred, and delusion
+In the heart of Buddhist philosophy lies a profound understanding of the human condition and the roots of our suffering. The sages of old identified three fundamental afflictions that cloud our minds, poison our hearts, and keep us trapped in an endless cycle of dissatisfaction and pain. These afflictions, known as the three poisons, are greed, hatred, and delusion.
 
 Greed, the first poison, is the insatiable hunger that drives us to crave more, to constantly seek out new possessions, experiences, and pleasures. It is the belief that happiness lies just beyond the next horizon, that if we could only acquire enough wealth, power, or status, we would finally be content. Yet, as the great conqueror Alexander discovered, even the vast riches and territories of the known world could not quench his thirst for more. Greed is a bottomless pit, a hunger that can never be satisfied, for it arises from a fundamental misunderstanding of the nature of happiness.
 
