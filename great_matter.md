@@ -1,7 +1,5 @@
 ![The Great Matter](./great_matter.jpg)
 # The Great Matter: Life and Death
-*** Douglas Matthew Purdy : Godō Shintan Shakya : 悟道深潭釋迦 
-
 ## Chapter 1: Alexander the Great
 
 ### Summary
@@ -139,7 +137,7 @@ The Threefold Training is not a linear path but a continuous cycle of learning a
 ## Dedication
 To Mahayana and Theravada. When we see each other upon the other shore….
 
-## About
+## Author
 Douglas M. Purdy (01971-02024) enters eternity. After much trial and error, Doug converged with reality, manifesting Godō Shintan Shakya (悟道深潭釋迦). He is not missed, as he is still with us. 
 
 > For fifty-two years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
