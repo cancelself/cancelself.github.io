@@ -1,7 +1,7 @@
 # The Great Matter: Life and Death
 *** Douglas Matthew Purdy : Godō Shintan Shakya : 悟道深潭釋迦 
 
-## Chapter 1: The Limits of Desire
+## Chapter 1: Alexander the Great
 
 ### Summary
 
