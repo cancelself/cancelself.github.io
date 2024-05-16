@@ -8,8 +8,8 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 ### 無
 
 An experienced one, 
-when deeply practicing mindfulness,
-clearly saw a way of being,
+while practicing deeply,
+clearly saw a way to be,
 relieving all suffering.
 
     K(no)w breath,
@@ -34,13 +34,13 @@ experience mirrors,
 waves in fields,
 polishing gently.
 
-With (no)thing attained,
+With nothing attained,
 the experienced one finds freedom,
 beyond all k(no)wing.
 
 This treasury of the true dharma eye, 
 the marvelous heart-mind of nirvana,
-(no)w entrusted to you.
+now entrusted to you.
 
 	+= (no)thing to add,
 
