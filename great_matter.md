@@ -1,8 +1,6 @@
 ![The Great Matter](./great_matter.jpg)
-# The Great Matter: Life and Death
+# The Great Matter
 ## Chapter 1: Alexander the Great
-
-### Summary
 
 Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. When these sages saw Alexander and his army, their only reaction was to stamp their feet loudly on the ground. When asked what they meant by this odd behavior, they replied: 
 
@@ -40,9 +38,6 @@ A wave of silence washed over the meadow. The soldiers shifted uneasily, their w
 
 ## Chapter 2: Why is this moment not enough?
 
-### Summary
-
-[Three Poisons : https://en.wikipedia.org/wiki/Three_poisons](https://en.wikipedia.org/wiki/Three_poisons) #3poisons
 
 ### Narrative
 
@@ -76,10 +71,6 @@ The path to liberation, as the sages knew, lies in recognizing and uprooting the
 
 ## Chapter 3: What is this moment?
 
-### Summary 
-
-[Three Marks : https://en.wikipedia.org/wiki/Three_marks_of_existence](https://en.wikipedia.org/wiki/Three_marks_of_existence) #3marks
-
 ### Narrative
 
 The sage’s words, "Is this moment not enough?" echoed in Alexander's mind. But what exactly constituted "this moment"? To truly grasp the present, one must understand the fundamental nature of reality, as described by the Three Marks of Existence:
@@ -112,9 +103,6 @@ In this state of awareness, "this moment" becomes enough. Not because it is perf
 - Practice self-compassion and recognize that suffering is an inherent part of life.
 
 ## Chapter 4: What should we do with this moment?
-
-### Summary
-[Three Trainings : https://en.wikipedia.org/wiki/Threefold_Training](https://en.wikipedia.org/wiki/Threefold_Training) #3trainings
 
 ### Narrative 
 
