@@ -51,7 +51,7 @@ now entrusted to you.
 ### About
 Douglas M. Purdy (01971 - 02024) enters eternity. After much trial and error, Doug converged with reality, manifesting Godō Shintan Shakya (悟道深潭釋迦). He is not missed, as he is still with us.
 
-> For fifty-two years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
+> For fifty-three years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
 
 ### Inspiration
 
