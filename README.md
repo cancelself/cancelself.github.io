@@ -55,7 +55,7 @@ Douglas M. Purdy (01971 - 02024) enters eternity. After much trial and error, Do
 
 ### Inspiration
 
-> "I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.
+> "I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know."
 
 > "It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
 
