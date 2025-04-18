@@ -21,7 +21,7 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 						
 							K(no)w mind,
 							
-								K(now).
+								Now.
 								
 Investigating thus,
 insight mirrors,
