@@ -7,11 +7,6 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 
 ### 無
 
-An experienced one,
-while practicing deeply,
-clearly saw a way to be,
-relieving all suffering.
-
 	K(no)w breath,
 	
 		K(no)w eye, ear, nose, tongue, skin,
@@ -20,23 +15,21 @@ relieving all suffering.
 			
 				K(no)w feelings,
 				
-					K(no)w perceptions,
+				K(no)w perceptions,
 					
-						K(no)w objects,
+			K(no)w objects,
 						
-							K(no)w mind,
+		K(no)w mind,
 							
-								K(no)w.
+	K(no)w.
 								
 Investigating thus,
-it becomes clear,
-experience mirrors,
+insight mirrors,
 waves in fields,
 polishing gently.
 
-With nothing attained,
-the experienced one finds freedom,
-beyond all k(no)wing.
+Beyond all k(no)wing,
+with (no)thing attained: freedom.
 
 This treasury of the true dharma eye,
 the marvelous heart-mind of nirvana,
