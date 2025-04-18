@@ -15,13 +15,13 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 			
 				K(no)w feelings,
 				
-				K(no)w perceptions,
+					K(no)w perceptions,
 					
-			K(no)w objects,
+						K(no)w objects,
 						
-		K(no)w mind,
+							K(no)w mind,
 							
-	K(no)w.
+								K(now).
 								
 Investigating thus,
 insight mirrors,
