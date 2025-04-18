@@ -23,8 +23,7 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 							
 								Now.
 								
-Investigating thus,
-insight mirrors,
+Insight mirrors,
 waves in fields,
 polishing gently.
 
