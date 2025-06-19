@@ -31,22 +31,3 @@ now entrusted:
 Q: Does a dog have Buddha nature?
 A: Woof
 ```
-
-### About
-Douglas M. Purdy (01971-02025) enters eternity. After much trial and error, Doug converged with reality, manifesting Godō Shintan Shakya (悟道深潭釋迦). He is not missed, as he is still with us.
-
-> For fifty-three years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
-
-### Inspiration
-
-> “I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.”
-
-> “It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
-
-> “To fear death is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils.”
-
-> "But no soul which has not practiced philosophy, and is not absolutely pure when it leaves the body, may attain to the divine nature; that is only for the lover of wisdom.”
-
-> “Whoever knows, profoundly, my divine presence on earth is not reborn when he leaves the body, but comes to me. Released from greed, fear, anger, absorbed in me and made pure by the practice of wisdom, many have attained my own state of being. However men try to reach me, I return their love with my love; whatever path they may travel, it leads to me in the end.”
-
-> “Wide open are the doors to the Deathless. Let those with ears to hear, hear.”
