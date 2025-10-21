@@ -1,12 +1,19 @@
-![The Great Matter](./great_matter.jpg)
+---
+layout: default
+title: The Great Matter
+date: 2025-01-15
+categories: [buddhism, philosophy]
+---
+
+![The Great Matter](/assets/images/great_matter.jpg)
 # The Great Matter
 ## Chapter 1: Alexander the Great
 
-Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. When these sages saw Alexander and his army, their only reaction was to stamp their feet loudly on the ground. When asked what they meant by this odd behavior, they replied: 
+Alexander the Great once came across some Indian sages in a meadow who were discussing philosophy. When these sages saw Alexander and his army, their only reaction was to stamp their feet loudly on the ground. When asked what they meant by this odd behavior, they replied:
 
-> “King Alexander, everyone can possess only so much of the earth’s surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so many miles from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you.”
+> "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so many miles from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you."
 
-### Narrative 
+### Narrative
 
 The midday sun beat down on the dusty plains of India, casting long shadows from the approaching army. At its head rode Alexander the Great, his brow furrowed in concentration, his gaze fixed on the horizon. Behind him stretched a seemingly endless procession of soldiers, their armor glinting in the sunlight, the rhythmic thud of their marching a steady drumbeat against the parched earth. He had conquered Persia, Egypt, and countless other lands, his name whispered in awe and fear throughout the known world. Yet, a gnawing dissatisfaction lingered within him, a thirst for something beyond mere territory and power.
 
@@ -53,7 +60,7 @@ Delusion, the third and most insidious poison, is the fundamental ignorance that
 
 These three poisons, working together, create a potent cocktail of suffering. Greed fuels our desire to acquire and possess, hatred drives us to protect and defend, and delusion obscures the true nature of our existence. Trapped in this cycle, we continually grasp at fleeting pleasures, push away perceived threats, and cling to a false sense of self, never finding true peace or contentment.
 
-The path to liberation, as the sages knew, lies in recognizing and uprooting these poisons from our hearts. This requires a profound shift in perspective, a willingness to let go of our attachments and embrace the true nature of reality. 
+The path to liberation, as the sages knew, lies in recognizing and uprooting these poisons from our hearts. This requires a profound shift in perspective, a willingness to let go of our attachments and embrace the true nature of reality.
 
 ### Reflection
 
@@ -73,7 +80,7 @@ The path to liberation, as the sages knew, lies in recognizing and uprooting the
 
 ### Narrative
 
-The sage’s words, "Is this moment not enough?" echoed in Alexander's mind. But what exactly constituted "this moment"? To truly grasp the present, one must understand the fundamental nature of reality, as described by the Three Marks of Existence:
+The sage's words, "Is this moment not enough?" echoed in Alexander's mind. But what exactly constituted "this moment"? To truly grasp the present, one must understand the fundamental nature of reality, as described by the Three Marks of Existence:
 
 1. Impermanence (Anicca): All things are in a constant state of flux. Nothing remains static; everything arises, changes, and eventually passes away. Alexander's vast empire, his physical body, even his thoughts and emotions, were all subject to the law of impermanence. Clinging to them as permanent fixtures only led to suffering when they inevitably changed or disappeared.
 
@@ -104,7 +111,7 @@ In this state of awareness, "this moment" becomes enough. Not because it is perf
 
 ## Chapter 4: What should we do with this moment?
 
-### Narrative 
+### Narrative
 
 Having understood the nature of "this moment" and the three marks of existence, the question arises: what should we do with this fleeting, precious experience? The answer lies in the Threefold Training, a path laid out by the Buddha to cultivate wisdom, ethical conduct, and mental discipline:
 
@@ -126,6 +133,6 @@ The Threefold Training is not a linear path but a continuous cycle of learning a
 To Mahayana and Theravada. When we see each other upon the other shore….
 
 ## Author
-Douglas M. Purdy (01971-02024) enters eternity. After much trial and error, Doug converged with reality, manifesting Godō Shintan Shakya (悟道深潭釋迦). He is not missed, as he is still with us. 
+Douglas M. Purdy (01971-02024) enters eternity. After much trial and error, Doug converged with reality, manifesting Godō Shintan Shakya (悟道深潭釋迦). He is not missed, as he is still with us.
 
 > For fifty-two years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
