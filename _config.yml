@@ -1,6 +1,7 @@
-theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 title: cancelself.org
 description: tools + toys
 author: cancelself
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
