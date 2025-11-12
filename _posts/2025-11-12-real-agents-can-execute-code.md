@@ -29,4 +29,4 @@ Real agents can.
 
 ---
 
-*This is what changes everything. Not intelligence that suggests—intelligence that delivers.*
+*This is what changes everything. Not intelligence that suggests—intelligence that acts.*
