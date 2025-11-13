@@ -5,7 +5,7 @@ date: 2025-11-13
 categories: [technology, business]
 ---
 
-# Zoom Scheduler Adds Payments
+# Zoom Adds Payments
 
 [Zoom Support](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0082294)
 
