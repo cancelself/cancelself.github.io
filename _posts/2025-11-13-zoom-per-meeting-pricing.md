@@ -1,37 +1,43 @@
 ---
 layout: default
-title: Zoom's New "Per Zoom" Fee
+title: Zoom Wants You to Charge for Your Time
 date: 2025-11-13
 categories: [technology, business]
 ---
 
-# Zoom's New "Per Zoom" Fee
+# Zoom Wants You to Charge for Your Time
 
-Zoom is moving to a "per Zoom" pricing model.
+Zoom Scheduler now has built-in payments. You can set a price, collect upfront through Stripe, and manage refunds—all within the scheduling flow.
 
-This is a fundamental shift from how video conferencing has been priced. Instead of paying for seats or subscription tiers, you'll pay each time you use the service.
+The pitch is straightforward: monetize your time, reduce no-shows, cut admin overhead. Turn your calendar into a payment gateway.
 
-It's a return to pre-internet economics: pay per use, like phone calls or taxi rides. Except this is worse—you're paying for something that costs Zoom essentially nothing at the margin.
+This isn't Zoom charging you more. It's Zoom enabling you to charge others.
 
-The cloud was supposed to make things cheaper through scale. Instead, we're watching SaaS companies realize they can extract more value by metering what used to be flat-rate.
+**Every platform eventually discovers payments.** Twitter added tips and subscriptions. LinkedIn wants you to pay for InMail. Discord sells server boosts. The pattern is universal: build the network, then monetize the interactions.
 
-Zoom isn't alone here. This is the pattern:
+Zoom Scheduler with payments transforms video conferencing infrastructure into transaction infrastructure. The meeting isn't the product anymore—your time is.
 
-1. Build market share with generous free tiers and flat pricing
-2. Become essential infrastructure
-3. Start metering usage
-4. Extract maximum revenue per interaction
+This changes the nature of professional relationships. A "quick call" is no longer casual when there's a price attached. Every calendar invite becomes a value proposition. The friction of payment separates signal from noise.
 
-The "per Zoom" fee means every meeting now has a visible cost. Calendar invites become spending decisions. The casual "let's hop on a quick call" gains friction.
+For consultants, coaches, and experts who already charge for their time, this is pure convenience—consolidating Calendly, Stripe, and Zoom into one tool.
 
-This changes behavior. Not necessarily for the better.
+For everyone else, it's a quiet nudge: *your time has a price. Why aren't you charging for it?*
 
-We'll see more asynchronous communication, which could be good. We'll also see more reluctance to collaborate, which definitely isn't.
+The implications are subtle but significant:
 
-**The subscription model aligned incentives: pay once, use freely, focus on value.** The per-use model misaligns them: every interaction is a transaction.
+- More gatekeeping behind paywalls
+- Professional networks stratifying by willingness to pay
+- Commodification of expertise that might not scale well
+- Reduction in spontaneous, exploratory conversations
 
-Zoom built its business on being the easy default. Metered pricing makes it the expensive one.
+Zoom is betting that enough people want to monetize their calendars to make this worth building. They're probably right.
+
+**The question isn't whether you can charge for your time. It's whether you should.**
+
+When platforms make it frictionless to extract value from every interaction, we optimize for transactions over relationships. Some expertise should have a price. Some conversations shouldn't.
+
+The infrastructure doesn't know the difference. It just processes payments.
 
 ---
 
-*When infrastructure becomes a tollbooth, people find alternate routes.*
+*The easiest way to monetize something is to make monetization easy.*
