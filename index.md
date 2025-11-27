@@ -32,10 +32,14 @@ now entrusted:
 := (no)thing is complete.
 ```
 
+### Jisei (辞世)
+
+> For fifty-four years, a purifying flame. Now leaping beyond the ocean gate, steam rises. Amazing! Who knew fire + water were so connected?
+
 ### Coda
 ```
-Q: Does a dog have Buddha nature?
-A: Woof
+Q: Does a dog have Buddha-nature?
+A: Woof!
 ```
 
 ---
