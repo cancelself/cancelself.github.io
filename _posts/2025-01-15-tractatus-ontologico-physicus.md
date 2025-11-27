@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tractatus Ontologico-Physicus
+date: 2025-01-15
+categories: [philosophy]
+---
+
 # Tractatus Ontologico-Physicus
 ## 10 Points
 
