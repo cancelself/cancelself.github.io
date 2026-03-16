@@ -52,3 +52,6 @@ A life, seen from the outside, is an S-matrix. Born here, died there, scattered 
 ---
 
 *Fate doesn't write in straight lines. It writes in vertices and propagators, loops and exchanges — the grammar of interaction itself. Learn to read the diagrams and you'll see: nothing was wasted. Every divergence was renormalized. Every virtual particle did its work.*
+
+## Authors
+cancelself & Claude
