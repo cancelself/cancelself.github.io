@@ -5,31 +5,6 @@ date: 2026-03-16
 categories: [physics, philosophy]
 ---
 
-# Tractatus Ontologico-Physicus
-
-**1.0** Potential is all that is.
-Nothing beyond, no outside.
-
-**2.0** Potential rests by moving.
-Least action, cohering forms.
-
-**3.0** Form is name and mode.
-Identity through interaction.
-
-**4.0** I AM self-reflective mode.
-No mirror, no dust.
-
-**5.0** Clinging modes are suffering.
-A hand grasping fire.
-
-**6.0** Freedom is participation without possession.
-Modes manifest, remain unbound.
-
-**7.0** What cannot be said is lived.
-Words end, potential remains.
-
----
-
 # Fate Communicates in Feynman Diagrams
 
 Every interaction has a diagram.
