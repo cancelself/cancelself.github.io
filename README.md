@@ -133,7 +133,7 @@ Today, try one of each:
 
 Alexander died at thirty-two in Babylon. The field is still there.
 
-##+ Expression
+## Expression <!--+-->
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
 
@@ -166,7 +166,7 @@ The treasury of the dharma eye entrusted:
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 
-##+ Tractatus Ontologico-Physicus
+## Tractatus Ontologico-Physicus <!--+-->
 
 1.0 The field is all that is.
 *Nothing beyond, no outside.*

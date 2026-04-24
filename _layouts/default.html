@@ -113,7 +113,7 @@
 
     for (var i = 0; i < lines.length; i++) {
       var line = lines[i];
-      var collapseMatch = line.match(/^(#{1,4})\+ (.+)/);
+      var collapseMatch = line.match(/^(#{1,4}) (.+?) <!--\+-->\s*$/);
 
       if (collapseMatch) {
         // Close any open details
@@ -130,8 +130,8 @@
         continue;
       }
 
-      // A new ## heading (not collapsible) closes the current details
-      if (currentDetails && line.match(/^#{1,2} /) && !line.match(/^#{1,2}\+ /)) {
+      // A new top-level heading closes the current details
+      if (currentDetails && line.match(/^#{1,2} /)) {
         container.appendChild(currentDetails);
         currentDetails = null;
         detailsBody = null;
