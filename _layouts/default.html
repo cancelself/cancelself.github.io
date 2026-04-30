@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" type="image/jpeg" href="{{ '/mu.jpg' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/mu.jpg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #c0c0c0;
+      color: #555;
+      font-family: 'JetBrains Mono', 'Berkeley Mono', 'IBM Plex Mono', 'Fira Code', monospace;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.8;
+      padding: 40px 24px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    #content {
+      max-width: 760px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 48px 40px;
+      border: 1px solid #999;
+      box-shadow: 1px 1px 0 #888;
+    }
+
+    .md-h1 { font-weight: 700; color: #000; }
+    .md-h2 { font-weight: 700; color: #000; }
+    .md-h3 { font-weight: 700; color: #000; }
+    .md-h4 { font-weight: 700; color: #000; }
+    .md-blockquote { color: #555; font-style: italic; }
+    .md-hr { color: #999; }
+    .md-blank { height: 0.8em; }
+    .md-p { }
+
+    .md-bold { font-weight: 700; color: #000; }
+    .md-italic { font-style: italic; }
+    .md-link { color: #0055aa; text-decoration: underline; }
+    .md-link:hover { color: #003377; }
+
+    details { margin-top: 0.4em; }
+    details summary {
+      font-weight: 700;
+      color: #000;
+      cursor: pointer;
+      list-style: none;
+    }
+    details summary::-webkit-details-marker { display: none; }
+    details summary::before {
+      content: '▶ ';
+      font-size: 0.9em;
+      display: inline-flex;
+      align-items: center;
+      height: 1em;
+      color: #888;
+      margin-right: 0.3em;
+    }
+    details[open] summary::before {
+      content: '▼ ';
+    }
+    details .md-details-body {
+      padding-top: 0.4em;
+    }
+  </style>
+</head>
+<body>
+  <div id="content"></div>
+  <script>
+    var raw = {{ page.content | jsonify }};
+    var container = document.getElementById('content');
+    var lines = raw.split('\n');
+    var currentDetails = null;
+    var detailsBody = null;
+
+    function renderLine(line, parent) {
+      var div = document.createElement('div');
+
+      if (line.match(/^\s*$/)) {
+        div.className = 'md-blank';
+      } else if (line.match(/^#### /)) {
+        div.className = 'md-h4';
+        div.textContent = line;
+      } else if (line.match(/^### /)) {
+        div.className = 'md-h3';
+        div.textContent = line;
+      } else if (line.match(/^## /)) {
+        div.className = 'md-h2';
+        div.textContent = line;
+      } else if (line.match(/^# /)) {
+        div.className = 'md-h1';
+        div.textContent = line;
+      } else if (line.match(/^-{3,}$/)) {
+        div.className = 'md-hr';
+        div.textContent = line;
+      } else if (line.match(/^> /)) {
+        div.className = 'md-blockquote';
+        div.innerHTML = escapeHtml(line).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a class="md-link" href="$2" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<span class="md-bold">**$1**</span>').replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<span class="md-italic">*$1*</span>');
+      } else {
+        div.className = 'md-p';
+        div.innerHTML = escapeHtml(line).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a class="md-link" href="$2" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<span class="md-bold">**$1**</span>').replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<span class="md-italic">*$1*</span>');
+      }
+
+      parent.appendChild(div);
+    }
+
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i];
+      var collapseMatch = line.match(/^(#{1,4}) (.+?) <!--\+-->\s*$/);
+
+      if (collapseMatch) {
+        // Close any open details
+        if (currentDetails) {
+          container.appendChild(currentDetails);
+        }
+        currentDetails = document.createElement('details');
+        var summary = document.createElement('summary');
+        summary.textContent = collapseMatch[1] + ' ' + collapseMatch[2];
+        currentDetails.appendChild(summary);
+        detailsBody = document.createElement('div');
+        detailsBody.className = 'md-details-body';
+        currentDetails.appendChild(detailsBody);
+        continue;
+      }
+
+      // A new top-level heading closes the current details
+      if (currentDetails && line.match(/^#{1,2} /)) {
+        container.appendChild(currentDetails);
+        currentDetails = null;
+        detailsBody = null;
+      }
+
+      if (currentDetails) {
+        renderLine(line, detailsBody);
+      } else {
+        renderLine(line, container);
+      }
+    }
+
+    // Close any remaining open details
+    if (currentDetails) {
+      container.appendChild(currentDetails);
+    }
+
+    function escapeHtml(text) {
+      var d = document.createElement('div');
+      d.textContent = text;
+      return d.innerHTML;
+    }
+  </script>
+</body>
+</html>
