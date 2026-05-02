@@ -6,7 +6,157 @@ title: Inspiration
 # Inspiration
 
 
-## Dōgen
+## Chinese Chan
+
+
+### Huineng
+
+
+“With those who are sympathetic
+You may have discussion about Buddhism.
+As to those whose point of view differs from ours, Treat them politely and try to make them happy.
+Disputes are alien to our school,
+They are incompatible with its spirit.
+To be bigoted and to argue with others in disregard of this rule
+Is to subject one's Mind-essence
+to the bitterness of this mundane existence.”
+
+— Huineng, *Platform Sutra* (closing verse)
+
+
+Huineng, who would later become the Thirty-third (Sixth Chinese) Ancestor, Zen Master Dajian, was staying at the Faxing Monastery, in Guang Province, before his head was shaved.
+There were two monks from India debating. One of them said, "The banner is flapping."
+The other said, "The wind is flapping." They went back and forth and could
+not settle the question.
+Then Huineng said, "It is not the banner that is flapping. It is not the wind that is flapping. It is your mind that is flapping."
+
+— *Platform Sutra of the Sixth Patriarch* (Huineng); also *Wumenguan* case 29
+
+
+### Mazu Daoyi
+
+
+Mazu asked, "What sutras do you teach?" 
+Liang said, "The Heart Sutra." 
+Mazu asked, "How do you teach it?" 
+Liang said, "I use the heart to teach."
+
+— Mazu Daoyi exchange with Liang, *Jingde Chuandeng Lu* (Records of the Transmission of the Lamp)
+
+
+A monk asked, "Master, why do you say that mind is Buddha?" 
+Mazu said, "To stop babies from crying."
+The monk said, "What do you say when they stop crying?"
+Mazu said, "No mind, no Buddha."
+The monk asked, "Without using either of these teachings, how would you instruct someone?"
+Mazu said, "I would say to him that it's not a thing."
+The monk asked, "If suddenly someone who was in the midst of it came to you, then what would you do?"
+Mazu said, "I would teach him to experience the great way."
+
+— Mazu Daoyi exchange, *Jingde Chuandeng Lu* / *Wumenguan* case 30 ("Mind Itself Is Buddha")
+
+
+### Bai Juyi
+
+
+"He who talks doesn't know,
+he who knows doesn't talk"
+that is what Lao-tzu told us,
+in a book of five thousand words.
+If he was the one who knew,
+how could he have been such a blabbermouth?
+
+— Bai Juyi (Bo Juyi), "Reading Lao Tzu" (Tang dynasty)
+
+
+### Han-shan
+
+
+"Wearing lotus leaves from this pond—inexhaustible,
+Eating pine nuts from several trees—still more left.
+Having been spotted by people from the world,
+I am moving my hut further away.”
+
+— Han-shan (Cold Mountain), *Cold Mountain Poems* (source pending)
+
+
+“Don't return to your native town:
+you can't teach the truth there.
+By the village stream an old woman
+is calling you by your childhood name.”
+
+— attrib. Han-shan / Ryōkan (source pending)
+
+
+### Dongshan Liangjie
+
+
+“Completely avoid seeking from others. Now I travel alone; everywhere I can meet it. It is now truly me, but I am not it. Understanding like this, we finally harmonize with thusness.”
+
+— Dongshan Liangjie, awakening verse, *Record of Dongshan*
+
+
+### Yunmen
+
+
+“To give instructions is like gouging a wound in good flesh.”
+
+— attrib. Yunmen / Chan saying (source pending)
+
+
+### Hongzhi Zhengjue
+
+
+“It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
+
+— attrib. Hongzhi Zhengjue (source pending)
+
+
+### Wumen Huikai
+
+
+Holding out a flower,
+The Buddha betrayed his curly tail.
+Heaven and earth were bewildered
+At Mahakashyapa's smile.
+
+— Wumen Huikai, verse on case 6 of the *Wumenguan* (Gateless Gate): Buddha holds up a flower
+
+
+“The blue sky and bright day,
+No more searching around!
+"What is the Buddha?" you ask:
+With loot in your pocket, you declare yourself innocent.”
+
+— Wumen Huikai, verse on case 30 of the *Wumenguan* (Mazu's "Mind Itself Is Buddha")
+
+
+“The great road has no gate. It leaps out from the heads of all of us all. The open sky has no road. It enters into our nostrils. In this way we meet as bandits or troublemakers. Ha! The self tumbles down and spring wind swirls. Astonished, blossoms fly and scatter — red.”
+
+— Wumen Huikai, preface to the *Wumenguan* (Gateless Gate / Mumonkan) — opening verse
+
+
+### Book of Serenity
+
+
+Fayan was going on pilgrimage.
+Dizang said, "Where are you going?"
+Fayan said, "Around on pilgrimage."
+Dizang said, "What is the purpose of pilgrimage?"
+Fayan said: "I don't know."
+Dizang said, "Not knowing is most intimate."
+
+— *Book of Serenity (Shōyōroku)*, Case 20
+
+
+## Japanese Zen
+
+
+### Dōgen
+
+
+#### Shōbōgenzō
+
 
 “Without attachment, one who buys gold sells gold. This is called the mystery of mysteries, the wonder of wonders, the awakening of awakenings, the head top above the head. This is the daily activity of buddha ancestors.”
 
@@ -128,6 +278,17 @@ Huineng, Zen Master Dajian of Mount Caoxi, once instructed Nanyue, who would lat
 Study thoroughly his statement that all things are invari ably what, as what is beyond doubt, beyond understanding, but, just what. Study thoroughly that the one thing is no other than what. What is not to be doubted. What thus comes.
 
 — Dōgen, *Shōbōgenzō*, "Immo" (Thusness), citing the Huineng / Nanyue exchange
+
+
+Merely of various elements is this body of Mine composed.
+The time of its arising is merely an arising of elements;
+The time of its vanishing is merely a vanishing of elements.
+As these elements arise, I do not speak of the arising of an I, And as these elements vanish, I do not speak of the vanishing of an I.
+Previous instants and succeeding instants are not a series of instants that depend on each other;
+Previous elements and succeeding elements are not a series of elements that stand against each other.
+To give all of this a name, I call it the meditative state that bears the seal of the Ocean."
+
+— quoted in Dōgen, *Shōbōgenzō*, "Kaiin Zammai" (The Ocean Seal Samādhi)
 
 
 Here is a story. A king in eastern India invited Venerable Prajñātāra for a feast. Then the king asked, "All people are reciting sutras. Venerable one, why don't you recite them?"
@@ -254,50 +415,6 @@ Mind is the moment of actualizing the fundamental point; words are the moment of
 — Dōgen, *Shōbōgenzō*, "Uji" (Being-Time)
 
 
-If ever you value fame and gain, then be compassionate to fame and gain. If you are compassionate to fame and gain, you will not allow them to break the body that can become a bud-dha ancestor. Being compassionate to family and relatives is also like this. Do not think that fame and gain are phantoms and illusions, but regard them as sentient beings. If you are not compassionate to fame and gain, you will accumulate unwholesome actions. The true eye of study should be like this.
-
-— Dōgen, *Gakudō Yōjinshū* (Points to Watch in Practicing the Way)
-
-
-"Zazen is the dharma gate of enjoyment and ease.”
-
-— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
-
-
-“THE REAL WAY CIRCULATES everywhere; how could it require practice or enlightenment? The essential teaching is fully available; how could effort be necessary? Furthermore, the entire mirror is free of dust; why take steps to polish it? Nothing is separate from this very place; why journey away?”
-
-— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
-
-
-A wild fox spirit hides in grass for six years,
-leaps-its entire body is twining vines.
-Smashing the eyeball, there is nothing to seek.
-Deceived, people call it enlightenment at the morning star
-
-— Dōgen, verse from *Eihei Kōroku* (Extensive Record of Eihei; source pending)
-
-
-Coming east, directly pointing,
-You entrusted the Dharma, and trouble arose;
-The clamor of the
-monasteries
-Is all because of you
-
-— Dōgen, verse on Bodhidharma, *Eihei Kōroku* (source pending)
-
-
-“A sack of flowing wind tied around his waist,
-He stole the wind in the pines to insert or bring forth.
-Then twirling a branch of winter plum blossoms to sell,
-He came and went under the heavens, planning to find a buyer.
-After six years of bitter ascetic practice,
-He attained awakening in one sitting.
-Glimpsing the ground and arising, how laughable!
-What is this broken wooden ladle?”
-
-— Dōgen, verse on Shakyamuni Buddha's awakening, *Eihei Kōroku* (source pending)
-
-
 “The entire earth is the true human body.
 The entire earth is the gate of liberation.
 The entire earth is the single eye of awakening.
@@ -372,92 +489,125 @@ But there should be a way to be free from hindrance. What, then, is the way for 
 — Dōgen, *Shōbōgenzō*
 
 
-## Plato
-
-“I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.”
-
-— Plato, *Apology* 21d (Socrates)
+#### Fukan Zazengi
 
 
-“To fear death is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils.”
+"Zazen is the dharma gate of enjoyment and ease.”
 
-— Plato, *Apology* 29a (Socrates)
-
-
-"But no soul which has not practiced philosophy, and is not absolutely pure when it leaves the body, may attain to the divine nature; that is only for the lover of wisdom.”
-
-— Plato, *Phaedo* 82b–c (Socrates)
+— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
 
 
-## Wumen Huikai
+“THE REAL WAY CIRCULATES everywhere; how could it require practice or enlightenment? The essential teaching is fully available; how could effort be necessary? Furthermore, the entire mirror is free of dust; why take steps to polish it? Nothing is separate from this very place; why journey away?”
 
-Holding out a flower,
-The Buddha betrayed his curly tail.
-Heaven and earth were bewildered
-At Mahakashyapa's smile.
-
-— Wumen Huikai, verse on case 6 of the *Wumenguan* (Gateless Gate): Buddha holds up a flower
+— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
 
 
-“The blue sky and bright day,
-No more searching around!
-"What is the Buddha?" you ask:
-With loot in your pocket, you declare yourself innocent.”
-
-— Wumen Huikai, verse on case 30 of the *Wumenguan* (Mazu's "Mind Itself Is Buddha")
+#### Gakudō Yōjinshū
 
 
-“The great road has no gate. It leaps out from the heads of all of us all. The open sky has no road. It enters into our nostrils. In this way we meet as bandits or troublemakers. Ha! The self tumbles down and spring wind swirls. Astonished, blossoms fly and scatter — red.”
+If ever you value fame and gain, then be compassionate to fame and gain. If you are compassionate to fame and gain, you will not allow them to break the body that can become a bud-dha ancestor. Being compassionate to family and relatives is also like this. Do not think that fame and gain are phantoms and illusions, but regard them as sentient beings. If you are not compassionate to fame and gain, you will accumulate unwholesome actions. The true eye of study should be like this.
 
-— Wumen Huikai, preface to the *Wumenguan* (Gateless Gate / Mumonkan) — opening verse
-
-
-## Mazu Daoyi
-
-Mazu asked, "What sutras do you teach?" 
-Liang said, "The Heart Sutra." 
-Mazu asked, "How do you teach it?" 
-Liang said, "I use the heart to teach."
-
-— Mazu Daoyi exchange with Liang, *Jingde Chuandeng Lu* (Records of the Transmission of the Lamp)
+— Dōgen, *Gakudō Yōjinshū* (Points to Watch in Practicing the Way)
 
 
-A monk asked, "Master, why do you say that mind is Buddha?" 
-Mazu said, "To stop babies from crying."
-The monk said, "What do you say when they stop crying?"
-Mazu said, "No mind, no Buddha."
-The monk asked, "Without using either of these teachings, how would you instruct someone?"
-Mazu said, "I would say to him that it's not a thing."
-The monk asked, "If suddenly someone who was in the midst of it came to you, then what would you do?"
-Mazu said, "I would teach him to experience the great way."
-
-— Mazu Daoyi exchange, *Jingde Chuandeng Lu* / *Wumenguan* case 30 ("Mind Itself Is Buddha")
+#### Eihei Kōroku
 
 
-## Huineng
+A wild fox spirit hides in grass for six years,
+leaps-its entire body is twining vines.
+Smashing the eyeball, there is nothing to seek.
+Deceived, people call it enlightenment at the morning star
 
-“With those who are sympathetic
-You may have discussion about Buddhism.
-As to those whose point of view differs from ours, Treat them politely and try to make them happy.
-Disputes are alien to our school,
-They are incompatible with its spirit.
-To be bigoted and to argue with others in disregard of this rule
-Is to subject one's Mind-essence
-to the bitterness of this mundane existence.”
-
-— Huineng, *Platform Sutra* (closing verse)
+— Dōgen, verse from *Eihei Kōroku* (Extensive Record of Eihei; source pending)
 
 
-Huineng, who would later become the Thirty-third (Sixth Chinese) Ancestor, Zen Master Dajian, was staying at the Faxing Monastery, in Guang Province, before his head was shaved.
-There were two monks from India debating. One of them said, "The banner is flapping."
-The other said, "The wind is flapping." They went back and forth and could
-not settle the question.
-Then Huineng said, "It is not the banner that is flapping. It is not the wind that is flapping. It is your mind that is flapping."
+Coming east, directly pointing,
+You entrusted the Dharma, and trouble arose;
+The clamor of the
+monasteries
+Is all because of you
 
-— *Platform Sutra of the Sixth Patriarch* (Huineng); also *Wumenguan* case 29
+— Dōgen, verse on Bodhidharma, *Eihei Kōroku* (source pending)
 
 
-## Shunryu Suzuki
+“A sack of flowing wind tied around his waist,
+He stole the wind in the pines to insert or bring forth.
+Then twirling a branch of winter plum blossoms to sell,
+He came and went under the heavens, planning to find a buyer.
+After six years of bitter ascetic practice,
+He attained awakening in one sitting.
+Glimpsing the ground and arising, how laughable!
+What is this broken wooden ladle?”
+
+— Dōgen, verse on Shakyamuni Buddha's awakening, *Eihei Kōroku* (source pending)
+
+
+### Keizan
+
+
+“You should just rest and cease. Be cooled, pass numberless years as this moment. Be cold ashes, a withered tree, an incense burner in an abandoned temple, a piece of unstained silk.”
+
+— Keizan, *Zazen Yōjinki* (Points to Watch in Zazen)
+
+
+### Hakuun Yasutani
+
+
+It is extremely important for us to realize that the essential nature of our own self and the essential substance of the whole universe is one. The fact of this essential nature cannot be transmitted by thoughts or explanations. No words, no matter how clearly we may understand them, will bring us to a realization of this essential nature.
+Once you have experienced
+enlightenment, all of these expressions will become as clear as a jewel in the palm of your hand. You will come to see that each of them is nothing but another name for our own essential nature.
+
+— Hakuun Yasutani, *Introductory Lectures on Zen Training* (in Kapleau, *The Three Pillars of Zen*)
+
+
+### Sōtō Liturgy
+
+
+Although my past unwholesome actions have accumulated, causing hindrance in the study of the way, may buddhas and ancestors release me from these actions and liberate me. May the merit of practicing dharma fill inexhaustible worlds of phenomena. May compassion be extended to me.
+
+— Sōtō Zen liturgy of repentance (cf. Dōgen, *Shōbōgenzō*, "Keisei Sanshoku")
+
+
+## Vietnamese Zen
+
+
+### Thich Nhat Hanh
+
+
+One day, when you face this beast alone, with your courage intact, your eyes kind, untroubled
+(even as no one sees them), out of your smile will bloom a flower.
+And those who love you will behold you
+across ten thousand worlds of birth and dying.
+Alone again,
+I will go on with bent head,
+knowing that love has become eternal
+On the long, rough road, the sun and the moon will continue to shine, guiding my way.
+
+— Thich Nhat Hanh, "Recommendation" (1965), *Call Me By My True Names: The Collected Poems of Thich Nhat Hanh*
+
+
+“The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers.”
+
+— Thich Nhat Hanh
+
+
+“Dear friends, with humans, gods, brahmans, monastics, and maras' as witnesses, I tell you that if I have not experienced directly all that I have told you, I would not proclaim that I am an enlightened person, free from suffering. Because I myself have identified suffering, understood suffering, identified the causes of suffering, removed the causes of suffering, confirmed the existence of well-being, obtained well-being, identified the path to well-being, gone to the end of the path, and realized total liberation, I now proclaim to you that I am a free person.”
+
+— Buddha's enlightenment declaration, paraphrase by Thich Nhat Hanh in *Old Path White Clouds*
+
+
+“Our enemy
+carries a big
+basket filled with words.”
+
+— Thich Nhat Hanh
+
+
+## American Zen
+
+
+### Shunryu Suzuki
+
 
 Moment after moment you must be free from the beautiful form you created, because the moment in which that form existed has already gone, and the next moment is coming up. Life becomes mature constantly. You cannot stop it, not even for a moment, so you have to keep going. You must keep practicing to create this beauty again and again. This is spiritual creativity.
 
@@ -494,38 +644,8 @@ But usually, without being aware of it, we try to change something other than ou
 — Shunryu Suzuki, *Zen Mind, Beginner's Mind*
 
 
-## Thich Nhat Hanh
+### Charlotte Joko Beck
 
-One day, when you face this beast alone, with your courage intact, your eyes kind, untroubled
-(even as no one sees them), out of your smile will bloom a flower.
-And those who love you will behold you
-across ten thousand worlds of birth and dying.
-Alone again,
-I will go on with bent head,
-knowing that love has become eternal
-On the long, rough road, the sun and the moon will continue to shine, guiding my way.
-
-— Thich Nhat Hanh, "Recommendation" (1965), *Call Me By My True Names: The Collected Poems of Thich Nhat Hanh*
-
-
-“The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers.”
-
-— Thich Nhat Hanh
-
-
-“Dear friends, with humans, gods, brahmans, monastics, and maras' as witnesses, I tell you that if I have not experienced directly all that I have told you, I would not proclaim that I am an enlightened person, free from suffering. Because I myself have identified suffering, understood suffering, identified the causes of suffering, removed the causes of suffering, confirmed the existence of well-being, obtained well-being, identified the path to well-being, gone to the end of the path, and realized total liberation, I now proclaim to you that I am a free person.”
-
-— Buddha's enlightenment declaration, paraphrase by Thich Nhat Hanh in *Old Path White Clouds*
-
-
-“Our enemy
-carries a big
-basket filled with words.”
-
-— Thich Nhat Hanh
-
-
-## Charlotte Joko Beck
 
 Caught in the self-centered dream, only suffering; holding to self-centered thoughts, exactly the dream; each moment, life as it is, the only teacher; being just this moment, compassion's way.
 
@@ -537,7 +657,43 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Charlotte Joko Beck, *Nothing Special: Living Zen*
 
 
+### Dainin Katagiri
+
+
+“Life is an emergency case! Where is the emergency? Is it a particular situation, one day of your life? No, every moment of every day is an emergency. You have to do your best to face every moment, because this moment will never come again. The moment that you are living right now is a very important opportunity to make your life vividly alive. If you want to live with spiritual security in the midst of constant change, you have to burn the flame of your life force in everything you do.”
+
+— Dainin Katagiri, *Each Moment Is the Universe*
+
+
+### Bernie Glassman
+
+
+"When we live our life fully, using all the ingredients at hand, our life becomes what Zen Buddhists call "the supreme meal." A person who knows how to plan, cook, appreciate, and offer the supreme meal of life, is called a Zen cook"
+
+— Bernie Glassman & Rick Fields, *Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters*
+
+
+### Joseph Goldstein
+
+
+“Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it.”
+
+— Joseph Goldstein (vipassana teaching; source pending)
+
+
+### Shinshu Roberts
+
+
+“Serendipity and causality function simultaneously.”
+
+— Shinshu Roberts
+
+
 ## Theravāda
+
+
+### Pali Canon
+
 
 “Destroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being.”
 
@@ -666,9 +822,18 @@ This is the teaching of all buddhas.
 — *Acela Sutta*, Saṃyutta Nikāya 12.17 (the Buddha to Acela Kassapa, on the middle way between eternalism and annihilationism)
 
 
-“Monks ought to behave like a grinding stone. One comes to sharpen her knife. Another comes to grind his ax. Everybody who wants to have their metals improved in any way 
-makes use of the stone. Each time the stone is rubbed it wears out, but it makes no complaint nor does it boast of its 
-usefulness. Those who come, go home benefited; some of them may not be 
+### Ajahn Chah
+
+
+“Monks ought to behave like a grinding stone.
+One comes to sharpen her knife.
+Another comes to grind his ax.
+Everybody who wants to have their metals improved in any way 
+makes use of the stone.
+Each time the stone is rubbed
+it wears out, but it makes no complaint nor does it boast of its 
+usefulness.
+Those who come, go home benefited; some of them may not be 
 quite appreciative of the stone, but the stone remains ever content.”
 
 — Ajahn Chah, *No Ajahn Chah* (Abhayagiri Monastery)
@@ -676,27 +841,8 @@ quite appreciative of the stone, but the stone remains ever content.”
 
 ## Mahāyāna
 
-Although beginner's mind and
-ultimate mind are indistinguishable,
-the beginner's mind is more difficult.
-I bow to the beginner's mind that lets others awaken first.
 
-— Kashyapa Bodhisattva, in Dōgen, *Shōbōgenzō*, "Hotsu Bodaishin" (Arousing the Aspiration for Enlightenment)
-
-
-Ancestor Nagarjuna said, "Because buddhas venerate the dharma, they make offerings to the dharma and regard it as the teacher. How is it so? Because, all buddhas in the past, present, and future regard the reality of all phenomena as the teacher
-
-— Nāgārjuna (quoted in Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" — Making Offerings to Buddhas)
-
-
-“’Now these three realms are all my beings. All sentient beings in these realms are my children.’” Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas."
-
-— Buddha quoted from the *Lotus Sutra* (burning house parable, ch. 3), framed by Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" (Making Offerings to Buddhas)
-
-
-‘Once wholesome or unwholesome karma is done, the effects will not disappear even after a hundred, a thousand, or ten thousand eons. One receives the karmic effect when the conditions for that come together.
-
-— attrib. Buddha, quoted in Dōgen, *Shōbōgenzō*, "Sanji Gō" (Karmic Retribution in the Three Temporal Periods)
+### Diamond Sutra
 
 
 "The past mind is ungraspable. The present mind is ungraspable. The future mind is ungraspable."
@@ -709,11 +855,6 @@ Ancestor Nagarjuna said, "Because buddhas venerate the dharma, they make offerin
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)*
 
 
-Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who come in front of the Buddha who hear one verse or phrase of the Sutra of Wondrous Dharma Blossoms, and are delighted even for a moment . . . they will attain unsurpassable, complete enlightenment
-
-— *Lotus Sutra (Saddharmapuṇḍarīka)*, "Bhaiṣajyarāja" chapter
-
-
 "What the Tathagata has called the highest, transcendent understanding is not, in fact, the highest, transcendent understanding. That is why it is truly the highest, transcendent understanding.”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)*
@@ -722,6 +863,57 @@ Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who com
 "That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, 'Bhikshus, you should know that all of the teachings I give to you are a raft. All teachings must be abandoned, not to mention non-teachings.’”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)* (the raft simile)
+
+
+### Lotus Sutra
+
+
+“’Now these three realms are all my beings. All sentient beings in these realms are my children.’” Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas."
+
+— Buddha quoted from the *Lotus Sutra* (burning house parable, ch. 3), framed by Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" (Making Offerings to Buddhas)
+
+
+Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who come in front of the Buddha who hear one verse or phrase of the Sutra of Wondrous Dharma Blossoms, and are delighted even for a moment . . . they will attain unsurpassable, complete enlightenment
+
+— *Lotus Sutra (Saddharmapuṇḍarīka)*, "Bhaiṣajyarāja" chapter
+
+
+### Laṅkāvatāra Sūtra
+
+
+“The sphere that is internally realized without descriptions cannot be spoken and severs expressions. Ultimate meaning, laying to rest all disputes, transcends all the descriptive marks of reasoning.”
+
+— *Laṅkāvatāra Sūtra* (source pending)
+
+
+### Nāgārjuna
+
+
+Ancestor Nagarjuna said, "Because buddhas venerate the dharma, they make offerings to the dharma and regard it as the teacher. How is it so? Because, all buddhas in the past, present, and future regard the reality of all phenomena as the teacher
+
+— Nāgārjuna (quoted in Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" — Making Offerings to Buddhas)
+
+
+### Kashyapa Bodhisattva
+
+
+Although beginner's mind and
+ultimate mind are indistinguishable,
+the beginner's mind is more difficult.
+I bow to the beginner's mind that lets others awaken first.
+
+— Kashyapa Bodhisattva, in Dōgen, *Shōbōgenzō*, "Hotsu Bodaishin" (Arousing the Aspiration for Enlightenment)
+
+
+### Buddha (in Dōgen)
+
+
+‘Once wholesome or unwholesome karma is done, the effects will not disappear even after a hundred, a thousand, or ten thousand eons. One receives the karmic effect when the conditions for that come together.
+
+— attrib. Buddha, quoted in Dōgen, *Shōbōgenzō*, "Sanji Gō" (Karmic Retribution in the Three Temporal Periods)
+
+
+### Liturgy
 
 
 “All my ancient twisted karma / from beginningless greed, hate, and delusion / born through body, speech, and mind / I now fully avow.”
@@ -741,117 +933,11 @@ full rejoicing”
 — traditional dedication of merit verse (source pending)
 
 
-“The sphere that is internally realized without descriptions cannot be spoken and severs expressions. Ultimate meaning, laying to rest all disputes, transcends all the descriptive marks of reasoning.”
-
-— *Laṅkāvatāra Sūtra* (source pending)
-
-
-## Chinese Chan
-
-“It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
-
-— attrib. Hongzhi Zhengjue (source pending)
-
-
-Fayan was going on pilgrimage.
-Dizang said, "Where are you going?"
-Fayan said, "Around on pilgrimage."
-Dizang said, "What is the purpose of pilgrimage?"
-Fayan said: "I don't know."
-Dizang said, "Not knowing is most intimate."
-
-— *Book of Serenity (Shōyōroku)*, Case 20
-
-
-“Completely avoid seeking from others. Now I travel alone; everywhere I can meet it. It is now truly me, but I am not it. Understanding like this, we finally harmonize with thusness.”
-
-— Dongshan Liangjie, awakening verse, *Record of Dongshan*
-
-
-“To give instructions is like gouging a wound in good flesh.”
-
-— attrib. Yunmen / Chan saying (source pending)
-
-
-"He who talks doesn't know,
-he who knows doesn't talk"
-that is what Lao-tzu told us,
-in a book of five thousand words.
-If he was the one who knew,
-how could he have been such a blabbermouth?
-
-— Bai Juyi (Bo Juyi), "Reading Lao Tzu" (Tang dynasty)
-
-
-"Wearing lotus leaves from this pond—inexhaustible,
-Eating pine nuts from several trees—still more left.
-Having been spotted by people from the world,
-I am moving my hut further away.”
-
-— Han-shan (Cold Mountain), *Cold Mountain Poems* (source pending)
-
-
-“Don't return to your native town:
-you can't teach the truth there.
-By the village stream an old woman
-is calling you by your childhood name.”
-
-— attrib. Han-shan / Ryōkan (source pending)
-
-
-## Japanese Zen
-
-Merely of various elements is this body of Mine composed.
-The time of its arising is merely an arising of elements;
-The time of its vanishing is merely a vanishing of elements.
-As these elements arise, I do not speak of the arising of an I, And as these elements vanish, I do not speak of the vanishing of an I.
-Previous instants and succeeding instants are not a series of instants that depend on each other;
-Previous elements and succeeding elements are not a series of elements that stand against each other.
-To give all of this a name, I call it the meditative state that bears the seal of the Ocean."
-
-— quoted in Dōgen, *Shōbōgenzō*, "Kaiin Zammai" (The Ocean Seal Samādhi)
-
-
-Although my past unwholesome actions have accumulated, causing hindrance in the study of the way, may buddhas and ancestors release me from these actions and liberate me. May the merit of practicing dharma fill inexhaustible worlds of phenomena. May compassion be extended to me.
-
-— Sōtō Zen liturgy of repentance (cf. Dōgen, *Shōbōgenzō*, "Keisei Sanshoku")
-
-
-“You should just rest and cease. Be cooled, pass numberless years as this moment. Be cold ashes, a withered tree, an incense burner in an abandoned temple, a piece of unstained silk.”
-
-— Keizan, *Zazen Yōjinki* (Points to Watch in Zazen)
-
-
-It is extremely important for us to realize that the essential nature of our own self and the essential substance of the whole universe is one. The fact of this essential nature cannot be transmitted by thoughts or explanations. No words, no matter how clearly we may understand them, will bring us to a realization of this essential nature.
-Once you have experienced
-enlightenment, all of these expressions will become as clear as a jewel in the palm of your hand. You will come to see that each of them is nothing but another name for our own essential nature.
-
-— Hakuun Yasutani, *Introductory Lectures on Zen Training* (in Kapleau, *The Three Pillars of Zen*)
-
-
-## American Zen
-
-“Life is an emergency case! Where is the emergency? Is it a particular situation, one day of your life? No, every moment of every day is an emergency. You have to do your best to face every moment, because this moment will never come again. The moment that you are living right now is a very important opportunity to make your life vividly alive. If you want to live with spiritual security in the midst of constant change, you have to burn the flame of your life force in everything you do.”
-
-— Dainin Katagiri, *Each Moment Is the Universe*
-
-
-“Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it.”
-
-— Joseph Goldstein (vipassana teaching; source pending)
-
-
-"When we live our life fully, using all the ingredients at hand, our life becomes what Zen Buddhists call "the supreme meal." A person who knows how to plan, cook, appreciate, and offer the supreme meal of life, is called a Zen cook"
-
-— Bernie Glassman & Rick Fields, *Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters*
-
-
-“Serendipity and causality function simultaneously.”
-
-— Shinshu Roberts
-
-
 ## Other Eastern
+
+
+### Bhagavad Gita
+
 
 He who thinks of This (Atman) as slayer and he who believes This to be slain, are both ignorant. This neither slays nor is ever slain.
 
@@ -863,9 +949,7 @@ He who thinks of This (Atman) as slayer and he who believes This to be slain, ar
 — *Bhagavad Gita* 4.9–11 (Krishna)
 
 
-The ocean does not exclude water; that is why it is large. The mountain does not exclude soil; that is why it is high. A wise lord does not exclude people; that is why he has many subjects."
-
-— Li Si, "Memorial on the Expulsion of Aliens," in Sima Qian, *Records of the Grand Historian* (Shiji)
+### Tao Te Ching
 
 
 If you realize that all things change, there is nothing you will try to hold on to.
@@ -898,11 +982,18 @@ It is the great secret.”
 — *Tao Te Ching*, ch. 27 (trans. Stephen Mitchell)
 
 
+### Li Si
+
+
+The ocean does not exclude water; that is why it is large. The mountain does not exclude soil; that is why it is high. A wise lord does not exclude people; that is why he has many subjects."
+
+— Li Si, "Memorial on the Expulsion of Aliens," in Sima Qian, *Records of the Grand Historian* (Shiji)
+
+
 ## Western Religious
 
-Blake once led the painter Samuel Palmer to his window and, pointing to a group of children at play, said, "That is heaven.”
 
-— Samuel Palmer, recollection of William Blake
+### Hebrew Bible
 
 
 “But by means of their suffering, he rescues those who suffer. For he gets their attention through adversity.”
@@ -922,26 +1013,6 @@ and never hide from your heart.”
 — Isaiah 58:6–7
 
 
-“It is older than God: There is no God when there is nothing but God.”
-
-— attrib. Meister Eckhart (source pending)
-
-
-“The sun rises on the evil and on the good and rain falls on the just and on the unjust. Be perfect, just as your heavenly Father is perfect."
-
-— Matthew 5:45, 48 (Jesus, Sermon on the Mount)
-
-
-“Today means boundless and inexhaustible eternity. Months and years and all periods of time are concepts of men, who gauge everything by number; but the true name of eternity is Today.”
-
-— Meister Eckhart
-
-
-“Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.”
-
-— Matthew 13:43 (KJV)
-
-
 “Who is this that questions my wisdom with such ignorant words?”
 
 — Job 38:2 (God's reply to Job, KJV paraphrase)
@@ -952,11 +1023,70 @@ Then I commended mirth, because a man hath no better thing under the sun, than t
 — Ecclesiastes 8:15 (KJV)
 
 
+### New Testament
+
+
+“The sun rises on the evil and on the good and rain falls on the just and on the unjust. Be perfect, just as your heavenly Father is perfect."
+
+— Matthew 5:45, 48 (Jesus, Sermon on the Mount)
+
+
+“Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.”
+
+— Matthew 13:43 (KJV)
+
+
+### Meister Eckhart
+
+
+“It is older than God: There is no God when there is nothing but God.”
+
+— attrib. Meister Eckhart (source pending)
+
+
+“Today means boundless and inexhaustible eternity. Months and years and all periods of time are concepts of men, who gauge everything by number; but the true name of eternity is Today.”
+
+— Meister Eckhart
+
+
+### William Blake
+
+
+Blake once led the painter Samuel Palmer to his window and, pointing to a group of children at play, said, "That is heaven.”
+
+— Samuel Palmer, recollection of William Blake
+
+
 ## Western Philosophy
+
+
+### Plato
+
+
+“I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.”
+
+— Plato, *Apology* 21d (Socrates)
+
+
+“To fear death is no other than to think oneself wise when one is not, to think one knows what one does not know. No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils.”
+
+— Plato, *Apology* 29a (Socrates)
+
+
+"But no soul which has not practiced philosophy, and is not absolutely pure when it leaves the body, may attain to the divine nature; that is only for the lover of wisdom.”
+
+— Plato, *Phaedo* 82b–c (Socrates)
+
+
+### Friedrich Nietzsche
+
 
 "From the Sun I learned this: when it goes down, overrich; it pours gold into the sea out of inexhaustible riches, so that even the poorest fisherman still rows with golden oars. For this I once saw and I did not tire of my tears as I watched it."
 
 — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part III, §56 "Old and New Tables"
+
+
+### James George Frazer
 
 
 “In the last analysis magic, religion, and science are nothing but theories of thought; and as science has supplanted its predecessors, so it may hereafter be itself superseded by some more perfect hypothesis.
@@ -967,9 +1097,16 @@ Brighter stars will rise on some voyager of the future some great Ulysses of the
 
 ## Modern
 
+
+### Donald Knuth
+
+
 “I have reached an age where my main purpose is not to receive messages.”
 
 — Donald Knuth
+
+
+### Cory Booker
 
 
 “Don't speak to me about your religion; first show it to me in how you treat other people.
@@ -981,6 +1118,7 @@ In the end, I'm not as interested in what you have to tell or sell as in how you
 
 
 ## Source Pending
+
 
 “Even if the world is shattered, your smile will never vanish.
 What did we gain yesterday?
@@ -1027,6 +1165,7 @@ Cravings, aversions, fixed judgments, concepts, beliefs
 
 
 ## Uncategorized
+
 
 “I, the great earth and all beings are complete and absolutely free.”
 
