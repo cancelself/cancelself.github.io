@@ -164,28 +164,6 @@ The treasury of the dharma eye entrusted:
 -= nothing to delete,
 := nothing is complete.
 
-## Tractatus Ontologico-Physicus <!--+-->
-
-1.0 What comes is all there is.
-*Thunder cracks, perfect mind.*
-
-2.0 Becoming rests by moving.
-*Least action, cohering modes.*
-
-3.0 Modes manifest differently, yet equally.
-*Not one, not two.*
-
-4.0 I AM reflective mode.
-*No mirror, no dust.*
-
-5.0 Clinging modes are suffering.
-*A hand grasping fire.*
-
-6.0 Freedom is participation without possession.
-*Modes manifest, remain unbound.*
-
-7.0 What cannot be said, is.
-
 ## Jisei (辞世) <!--+-->
 
 > For fifty-four years, a purifying flame.
