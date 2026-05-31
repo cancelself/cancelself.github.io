@@ -166,10 +166,10 @@ The treasury of the dharma eye entrusted:
 
 ## Tractatus Ontologico-Physicus <!--+-->
 
-1.0 The field is all that is.
-*Nothing beyond, no outside.*
+1.0 What comes is all there is.
+*Thunder cracks, perfect mind.*
 
-2.0 The field rests by moving.
+2.0 Becoming rests by moving.
 *Least action, cohering modes.*
 
 3.0 Modes manifest differently, yet equally.
@@ -185,7 +185,6 @@ The treasury of the dharma eye entrusted:
 *Modes manifest, remain unbound.*
 
 7.0 What cannot be said, is.
-*Words end, the field changes.*
 
 ## Jisei (辞世) <!--+-->
 
