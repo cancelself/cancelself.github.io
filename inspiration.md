@@ -56,6 +56,14 @@ Mazu said, "I would teach him to experience the great way."
 — Mazu Daoyi exchange, *Jingde Chuandeng Lu* / *Wumenguan* case 30 ("Mind Itself Is Buddha")
 
 
+“Don't return to your native town:
+you can't teach the truth there.
+By the village stream an old woman
+is calling you by your childhood name.”
+
+— Mazu Daoyi (馬祖道一), *Guzunsu Yulu* (Recorded Sayings of the Ancient Worthies) / traditional Zen verse
+
+
 ### Bai Juyi
 
 
@@ -69,7 +77,7 @@ how could he have been such a blabbermouth?
 — Bai Juyi (Bo Juyi), "Reading Lao Tzu" (Tang dynasty)
 
 
-### Han-shan
+### Damei Fachang
 
 
 "Wearing lotus leaves from this pond—inexhaustible,
@@ -77,15 +85,7 @@ Eating pine nuts from several trees—still more left.
 Having been spotted by people from the world,
 I am moving my hut further away.”
 
-— Han-shan (Cold Mountain), *Cold Mountain Poems* (source pending)
-
-
-“Don't return to your native town:
-you can't teach the truth there.
-By the village stream an old woman
-is calling you by your childhood name.”
-
-— attrib. Han-shan / Ryōkan (source pending)
+— Damei Fachang (大梅法常), *Jingde Chuandeng Lu* (Record of the Transmission of the Lamp)
 
 
 ### Dongshan Liangjie
@@ -96,12 +96,12 @@ is calling you by your childhood name.”
 — Dongshan Liangjie, awakening verse, *Record of Dongshan*
 
 
-### Yunmen
+### Yunmen/Chan Idiom
 
 
 “To give instructions is like gouging a wound in good flesh.”
 
-— attrib. Yunmen / Chan saying (source pending)
+— traditional Chan idiom (cf. *Wumenguan* Preface, *Record of Linji*)
 
 
 ### Hongzhi Zhengjue
@@ -109,7 +109,7 @@ is calling you by your childhood name.”
 
 “It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
 
-— attrib. Hongzhi Zhengjue (source pending)
+— attrib. Hongzhi Zhengjue (cf. *Book of Serenity* Case 20 on "not-knowing")
 
 
 ### Wumen Huikai
@@ -195,7 +195,7 @@ Mind is beyond measure. Things given are beyond measure. And yet, in giving, min
 
 "Speak what cannot be practiced. Practice what cannot be spoken."
 
-— attrib. Dōgen, *Shōbōgenzō*, "Dōtoku" (Being Able to Speak; source pending)
+— attrib. Dongshan Liangjie (quoted in Dōgen, *Shōbōgenzō*, "Dōtoku")
 
 
 “Do not think that buddha ancestors alone have brought forth speaking dharma. Speaking dharma has brought forth buddha ancestors. This speaking dharma is not limited to the teachings of eighty-four thousand dharma gates, but opens up the teachings of immeasurable, boundless gates.”
@@ -518,7 +518,7 @@ leaps-its entire body is twining vines.
 Smashing the eyeball, there is nothing to seek.
 Deceived, people call it enlightenment at the morning star
 
-— Dōgen, verse from *Eihei Kōroku* (Extensive Record of Eihei; source pending)
+— Tiantong Rujing (quoted in Dōgen, *Shōbōgenzō*, "Ganzei", and *Eihei Kōroku*)
 
 
 Coming east, directly pointing,
@@ -527,7 +527,7 @@ The clamor of the
 monasteries
 Is all because of you
 
-— Dōgen, verse on Bodhidharma, *Eihei Kōroku* (source pending)
+— Wumen Huikai, verse on Case 41 of the *Wumenguan* (Gateless Gate / Mumonkan)
 
 
 “A sack of flowing wind tied around his waist,
@@ -539,7 +539,7 @@ He attained awakening in one sitting.
 Glimpsing the ground and arising, how laughable!
 What is this broken wooden ladle?”
 
-— Dōgen, verse on Shakyamuni Buddha's awakening, *Eihei Kōroku* (source pending)
+— Dōgen, *Eihei Kōroku*, Volume 10 (verse on Shakyamuni Buddha coming down the mountain)
 
 
 ### Keizan
@@ -558,6 +558,14 @@ Once you have experienced
 enlightenment, all of these expressions will become as clear as a jewel in the palm of your hand. You will come to see that each of them is nothing but another name for our own essential nature.
 
 — Hakuun Yasutani, *Introductory Lectures on Zen Training* (in Kapleau, *The Three Pillars of Zen*)
+
+
+### Soyen Shaku
+
+
+"Don't think that your body is your body; it's the body of all beings. Don't think that your mind is your mind; it's the mind of all beings."
+
+— Soyen Shaku (translated by Nyogen Senzaki), "First Step in Zazen"
 
 
 ### Sōtō Liturgy
@@ -603,6 +611,15 @@ basket filled with words.”
 — Thich Nhat Hanh
 
 
+“Even if the world is shattered, your smile will never vanish.
+What did we gain yesterday?
+And what will we lose today?
+Come dear, look right into existence, adorned by illusion.
+Since the sunflower is already there, all flowers turn toward it and contemplate.”
+
+— Thich Nhat Hanh, *The Diamond That Cuts Through Illusion*
+
+
 ## American Zen
 
 
@@ -612,11 +629,6 @@ basket filled with words.”
 Moment after moment you must be free from the beautiful form you created, because the moment in which that form existed has already gone, and the next moment is coming up. Life becomes mature constantly. You cannot stop it, not even for a moment, so you have to keep going. You must keep practicing to create this beauty again and again. This is spiritual creativity.
 
 — Shunryu Suzuki
-
-
-"Don't think that your body is your body; it's the body of all beings. Don't think that your mind is your mind; it's the mind of all beings."
-
-— attrib. Shunryu Suzuki (source pending)
 
 
 “Then what will become of you if you become Buddhist? If you resign from this world, what will become of you is maybe next question. Why you become Buddhist is to resign from this world of suffering. To have perpetual joy we become Buddhist. If you become Buddhist, even though you have no hope for mundane wishes, but instead you will have the freedom from various restriction which you had in your mundane world. You will be free.”
@@ -636,7 +648,7 @@ Moment after moment you must be free from the beautiful form you created, becaus
 
 There is the wonderful story of when, during a lecture, he jumped off his teaching platform in reply to someone asking, "Why are we sitting here in zazen when other people are out protesting the Vietnam War?" He took his teaching stick and started beating the person next to the questioner yelling, "Dreamer! Dreamer! Dreamer!”
 
-— story about Shunryu Suzuki (source pending; commonly recounted by his students)
+— recounted in David Chadwick's biography of Shunryu Suzuki, *Crooked Cucumber* (also archived on cuke.com)
 
 
 But usually, without being aware of it, we try to change something other than ourselves, we try to order things outside us. But it is impossible to organize things if you yourself are not in order. When you do things in the right way, at the right time, everything else will be organized.
@@ -678,7 +690,7 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 
 “Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it.”
 
-— Joseph Goldstein (vipassana teaching; source pending)
+— Joseph Goldstein, *The Experience of Insight: A Simple & Direct Guide to Buddhist Meditation*
 
 
 ### Shinshu Roberts
@@ -721,6 +733,13 @@ Here, bhikkhus, is the Noble Truth of ending suffering. It is the fading away an
 — *Dhammacakkappavattana Sutta*, Saṃyutta Nikāya 56.11 (Buddha's first sermon)
 
 
+“When suffering ends and the formations are quietened,
+happiness will be there silently, and there will be peace.
+O bhikshus, I have realized this, and so I do not seek to enter any particular realm anymore.”
+
+— traditional paraphrase of the Buddha (cf. *Dhammacakkappavattana Sutta* & *Nibbāna Sutta*)
+
+
 "So many go for refuge to mountains and forest groves, to tree-shrines in tended parks; those people are driven by fear. But such refuge is no sanctuary, it is no supreme refuge. By going to that refuge, you're not released from suffering. One gone for refuge to the Buddha, to his teaching and to the Sangha, sees the four noble truths with right understanding: suffering, suffering's origin, suffering's transcendence, and the noble eightfold path that leads to the stilling of suffering. Such refuge is a sanctuary, it is the supreme refuge. By going to that refuge, you're released from all suffering."
 
 — *Dhammapada* 188–192
@@ -759,7 +778,7 @@ They meditate observing an aspect of boundlessness—keen, aware, and mindful, r
 
 “Oh, that my mind might be free from the taints by non-clinging, yet his mind will not be freed. For what reason? Because he has not developed his mind, one has to say. Not developed it in what? In the four foundations of mindfulness, the four right kinds of striving, the four bases of success, the five spiritual faculties, the five spiritual powers, the seven factors of enlightenment and the Noble Eightfold Path.”
 
-— Pali Canon, on the thirty-seven aids to enlightenment (*bodhipakkhiyā dhammā*; source pending)
+— *Bhāvanā Sutta*, Saṃyutta Nikāya 22.101 (also *Bhāvanānuyutta Sutta*, Aṅguttara Nikāya 7.67)
 
 
 "Drawing in the mind's thoughts as a tortoise draws its limbs into its shell. Independent, not harassing others, fully quenched, a practitioner of the way would not blame anyone."
@@ -878,12 +897,12 @@ Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who com
 — *Lotus Sutra (Saddharmapuṇḍarīka)*, "Bhaiṣajyarāja" chapter
 
 
-### Laṅkāvatāra Sūtra
+### Saṃdhinirmocana Sūtra
 
 
 “The sphere that is internally realized without descriptions cannot be spoken and severs expressions. Ultimate meaning, laying to rest all disputes, transcends all the descriptive marks of reasoning.”
 
-— *Laṅkāvatāra Sūtra* (source pending)
+— *Saṃdhinirmocana Sūtra* (Scripture of the Explication of Underlying Meaning), Chapter 2
 
 
 ### Nāgārjuna
@@ -930,7 +949,7 @@ I bow to the beginner's mind that lets others awaken first.
 the completion of wishes, 
 full rejoicing”
 
-— traditional dedication of merit verse (source pending)
+— traditional Pali anumodana (dedication of merit) blessing
 
 
 ## Other Eastern
@@ -1098,58 +1117,26 @@ Brighter stars will rise on some voyager of the future some great Ulysses of the
 ## Modern
 
 
-### Donald Knuth
-
-
-“I have reached an age where my main purpose is not to receive messages.”
-
-— Donald Knuth
-
-
-### Cory Booker
-
-
-“Don't speak to me about your religion; first show it to me in how you treat other people.
-Don't tell me how much you love your God; show me in how much you love all His children.
-Don't preach to me your passion for your faith; teach me through your compassion for your neighbors.
-In the end, I'm not as interested in what you have to tell or sell as in how you choose to live and give.”
-
-— Cory Booker
-
-
-## Source Pending
-
-
-“Even if the world is shattered, your smile will never vanish.
-What did we gain yesterday?
-And what will we lose today?
-Come dear, look right into existence, adorned by illusion.
-Since the sunflower is already there, all flowers turn toward it and contemplate.”
-
-— source pending
-
-
-“When suffering ends and the formations are quietened,
-happiness will be there silently, and there will be peace.
-O bhikshus, I have realized this, and so I do not seek to enter any particular realm anymore.”
-
-— attrib. Buddha (source pending)
-
-
-“Whatever effort it may embody, it is an effortless effort.”
-
-— source pending
-
-
-“Be careful who you get close to because when you do get close you start to grow together. You start to mix thoughts, ideas, and actions. Like how two plants growing next to each other have tangled roots. It can be the most enriching thing or the hardest thing to take apart.”
-
-— source pending
+### Stephen Mitchell
 
 
 “What is purity of heart?
 If we compare love to sunlight, we can say that the heart is like a window.
 Cravings, aversions, fixed judgments, concepts, beliefs
 -all forms of selfishness or selfprotection-are, when we cling to them, like dirt on the windowpane.”
+
+— Stephen Mitchell, *The Gospel According to Jesus*
+
+
+## Source Pending
+
+
+“Whatever effort it may embody, it is an effortless effort.”
+
+— traditional Taoist/Zen principle (cf. *wu wei*)
+
+
+“Be careful who you get close to because when you do get close you start to grow together. You start to mix thoughts, ideas, and actions. Like how two plants growing next to each other have tangled roots. It can be the most enriching thing or the hardest thing to take apart.”
 
 — source pending
 
