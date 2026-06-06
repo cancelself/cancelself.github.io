@@ -24,11 +24,11 @@ to the bitterness of this mundane existence.”
 — Huineng, *Platform Sutra* (closing verse)
 
 
-Huineng, who would later become the Thirty-third (Sixth Chinese) Ancestor, Zen Master Dajian, was staying at the Faxing Monastery, in Guang Province, before his head was shaved.
-There were two monks from India debating. One of them said, "The banner is flapping."
-The other said, "The wind is flapping." They went back and forth and could
+“Huineng, who would later become the Thirty-third (Sixth Chinese) Ancestor, Zen Master Dajian, was staying at the Faxing Monastery, in Guang Province, before his head was shaved.
+There were two monks from India debating. One of them said, ‘The banner is flapping.’
+The other said, ‘The wind is flapping.’ They went back and forth and could
 not settle the question.
-Then Huineng said, "It is not the banner that is flapping. It is not the wind that is flapping. It is your mind that is flapping."
+Then Huineng said, ‘It is not the banner that is flapping. It is not the wind that is flapping. It is your mind that is flapping.’”
 
 — *Platform Sutra of the Sixth Patriarch* (Huineng); also *Wumenguan* case 29
 
@@ -36,22 +36,22 @@ Then Huineng said, "It is not the banner that is flapping. It is not the wind th
 ### Mazu Daoyi
 
 
-Mazu asked, "What sutras do you teach?" 
-Liang said, "The Heart Sutra." 
-Mazu asked, "How do you teach it?" 
-Liang said, "I use the heart to teach."
+“Mazu asked, ‘What sutras do you teach?’ 
+Liang said, ‘The Heart Sutra.’ 
+Mazu asked, ‘How do you teach it?’ 
+Liang said, ‘I use the heart to teach.’”
 
 — Mazu Daoyi exchange with Liang, *Jingde Chuandeng Lu* (Records of the Transmission of the Lamp)
 
 
-A monk asked, "Master, why do you say that mind is Buddha?" 
-Mazu said, "To stop babies from crying."
-The monk said, "What do you say when they stop crying?"
-Mazu said, "No mind, no Buddha."
-The monk asked, "Without using either of these teachings, how would you instruct someone?"
-Mazu said, "I would say to him that it's not a thing."
-The monk asked, "If suddenly someone who was in the midst of it came to you, then what would you do?"
-Mazu said, "I would teach him to experience the great way."
+“A monk asked, ‘Master, why do you say that mind is Buddha?’ 
+Mazu said, ‘To stop babies from crying.’
+The monk said, ‘What do you say when they stop crying?’
+Mazu said, ‘No mind, no Buddha.’
+The monk asked, ‘Without using either of these teachings, how would you instruct someone?’
+Mazu said, ‘I would say to him that it’s not a thing.’
+The monk asked, ‘If suddenly someone who was in the midst of it came to you, then what would you do?’
+Mazu said, ‘I would teach him to experience the great way.’”
 
 — Mazu Daoyi exchange, *Jingde Chuandeng Lu* / *Wumenguan* case 30 ("Mind Itself Is Buddha")
 
@@ -80,7 +80,7 @@ how could he have been such a blabbermouth?
 ### Damei Fachang
 
 
-"Wearing lotus leaves from this pond—inexhaustible,
+“Wearing lotus leaves from this pond—inexhaustible,
 Eating pine nuts from several trees—still more left.
 Having been spotted by people from the world,
 I am moving my hut further away.”
@@ -139,12 +139,12 @@ With loot in your pocket, you declare yourself innocent.”
 ### Book of Serenity
 
 
-Fayan was going on pilgrimage.
-Dizang said, "Where are you going?"
-Fayan said, "Around on pilgrimage."
-Dizang said, "What is the purpose of pilgrimage?"
-Fayan said: "I don't know."
-Dizang said, "Not knowing is most intimate."
+“Fayan was going on pilgrimage.
+Dizang said, ‘Where are you going?’
+Fayan said, ‘Around on pilgrimage.’
+Dizang said, ‘What is the purpose of pilgrimage?’
+Fayan said: ‘I don’t know.’
+Dizang said, ‘Not knowing is most intimate.’”
 
 — *Book of Serenity (Shōyōroku)*, Case 20
 
@@ -291,9 +291,9 @@ To give all of this a name, I call it the meditative state that bears the seal o
 — quoted in Dōgen, *Shōbōgenzō*, "Kaiin Zammai" (The Ocean Seal Samādhi)
 
 
-Here is a story. A king in eastern India invited Venerable Prajñātāra for a feast. Then the king asked, "All people are reciting sutras. Venerable one, why don't you recite them?"
-Venerable Prajñātāra said, "This humble person while exhaling does not follow the various conditions, while inhaling does not dwell in mental or physical realms. Continuously I recite a hundred, a thousand, ten thousand, a billion volumes of such a sutra, not only one or two volumes."
-Dogen said: Thus I have heard, and faithfully receive and respectfully practice it.
+“Here is a story. A king in eastern India invited Venerable Prajñātāra for a feast. Then the king asked, ‘All people are reciting sutras. Venerable one, why don’t you recite them?’
+Venerable Prajñātāra said, ‘This humble person while exhaling does not follow the various conditions, while inhaling does not dwell in mental or physical realms. Continuously I recite a hundred, a thousand, ten thousand, a billion volumes of such a sutra, not only one or two volumes.’
+Dōgen said: Thus I have heard, and faithfully receive and respectfully practice it.”
 
 — Dōgen, *Shōbōgenzō*, "Kankin" (Reading Sutras), citing Prajñātāra
 
@@ -315,17 +315,17 @@ Human birth is difficult to acquire and buddha dharma is rarely encountered. Do 
 
 “When the Buddha was in this world, there was a blind nun.
 
-Without seeing, she used her hands to sew a robe. When a thread came off from the needle, she said to herself, "Who is going to benefit me by threading the needle?"
+Without seeing, she used her hands to sew a robe. When a thread came off from the needle, she said to herself, ‘Who is going to benefit me by threading the needle?’
 
-Then the Buddha went to her and said to the blind nun, "I love beneficial merit. So, let me thread the needle for you."
+Then the Buddha went to her and said to the blind nun, ‘I love beneficial merit. So, let me thread the needle for you.’
 
-Noticing that the voice was the Buddha's, the blind nun quickly put on her robe, bowed at the Buddha's feet, and said, "The Buddha is complete with merit. How come you say you love beneficial merit?"
+Noticing that the voice was the Buddha’s, the blind nun quickly put on her robe, bowed at the Buddha’s feet, and said, ‘The Buddha is complete with merit. How come you say you love beneficial merit?’
 
-The Buddha said, "Although I am already complete with merit, I deeply understand the cause, effect, and power of merit. The reason why I excel most among all sentient beings is because of this merit. Therefore, I love beneficial merit."
+The Buddha said, ‘Although I am already complete with merit, I deeply understand the cause, effect, and power of merit. The reason why I excel most among all sentient beings is because of this merit. Therefore, I love beneficial merit.’
 
-After praising merit for the sake of this blind nun, the Buddha spontaneously expounded dharma, saying: “I always make an effort. That is why I have attained unsurpassable, complete enlightenment.”
+After praising merit for the sake of this blind nun, the Buddha spontaneously expounded dharma, saying: ‘I always make an effort. That is why I have attained unsurpassable, complete enlightenment.’
 
-Then the nun attained the pure dharma eye and also became able to see with her eyes.
+Then the nun attained the pure dharma eye and also became able to see with her eyes.”
 
 — Dōgen, *Shōbōgenzō*, "Kudoku" (Power of Merit) / "Kuyō Shobutsu"
 
@@ -375,13 +375,13 @@ However, a bodhisattva of the final body washes the kashaya and cleanses the bod
 — Dōgen, *Shōbōgenzō*, "Shoaku Makusa" (Refrain from Unwholesome Action)
 
 
-Bai Zhuyi of the Tang Dynasty was the lay student of Ruman, Zen Master Fuguang, and a dharma descendant of Mazu, Zen Master Daji of Jiangxi.
+“Bai Juyi of the Tang Dynasty was the lay student of Ruman, Zen Master Fuguang, and a dharma descendant of Mazu, Zen Master Daji of Jiangxi.
 When he was governor of Hang province, he studied with Zen Master Daolin of Niaoke.
-One day Zhuyi said, "What is the essential meaning of buddha dharma?"
-Daolin said, "Refrain from unwholesome action, do wholesome action."
-Zhuyi said, "If that is so, a three-year-old child could say it."
-Daolin said, "A three-year-old child may say this, but even an eighty-year-old person cannot practice it."
-Zhuyi bowed in gratitude and left
+One day Juyi said, ‘What is the essential meaning of buddha dharma?’
+Daolin said, ‘Refrain from unwholesome action, do wholesome action.’
+Juyi said, ‘If that is so, a three-year-old child could say it.’
+Daolin said, ‘A three-year-old child may say this, but even an eighty-year-old person cannot practice it.’
+Juyi bowed in gratitude and left.”
 
 — Dōgen, *Shōbōgenzō*, "Shoaku Makusa" (Refrain from Unwholesome Action)
 
@@ -768,7 +768,7 @@ When looking on the world in this way the king of Death does not see one.”
 
 
 “The four kinds of mindfulness meditation are the path to convergence. They are in order to purify yourself, to get past sorrow + crying, to make an end of pain + sadness, to end the cycle of suffering: to realize boundless freedom. What four?
-It's when a person meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for anything else.
+It’s when a person meditates by observing an aspect of the body—keen, aware, and mindful, rid of desire and aversion for anything else.
 They meditate observing an aspect of feelings—keen, aware, and mindful, rid of desire and aversion for anything else.
 They meditate observing an aspect of the mind—keen, aware, and mindful, rid of desire and aversion for anything else.
 They meditate observing an aspect of boundlessness—keen, aware, and mindful, rid of desire and aversion for anything else.”
@@ -807,12 +807,12 @@ He whose faith in the Tathagata is settled, rooted, established, solid, unshakea
 — *Mahāsaccaka Sutta*, Majjhima Nikāya 36 (the Buddha recalling his childhood meditation)
 
 
-“I have attained this dharma, which is profound, hard to see, hard to understand, always peaceful, tranquil, subtle, understood only by those with the highest wisdom, not accessed by deluded ones. Beings differ from one another in various ways: they have differing views, capacities for toleration, desires, and lives. As a result of their various views, beings take pleasure in their attachments. Because they take pleasure in attachments, the profound dharma of dependent origination becomes difficult for them to understand. There is something else that is too profound for them to understand: when desires cease and craving is exhausted, nirvana arises. Because this is also hard to see, if I were to preach this dharma, others would not comprehend it, and my effort would be in vain."
+“I have attained this dharma, which is profound, hard to see, hard to understand, always peaceful, tranquil, subtle, understood only by those with the highest wisdom, not accessed by deluded ones. Beings differ from one another in various ways: they have differing views, capacities for toleration, desires, and lives. As a result of their various views, beings take pleasure in their attachments. Because they take pleasure in attachments, the profound dharma of dependent origination becomes difficult for them to understand. There is something else that is too profound for them to understand: when desires cease and craving is exhausted, nirvana arises. Because this is also hard to see, if I were to preach this dharma, others would not comprehend it, and my effort would be in vain.”
 
-— *Ariyapariyesanā Sutta*, Majjhima Nikāya 26 (the Buddha's hesitation after enlightenment)
+— *Ariyapariyesanā Sutta*, Majjhima Nikāya 26 (the Buddha’s hesitation after enlightenment)
 
 
-"For a generation delighting in attachment, excited by attachment, enjoying attachment, this/that conditionality and dependent co-arising are hard to see. This state, too, is hard to see: the resolution of all fabrications, the relinquishment of all acquisitions, the ending of craving; dispassion; cessation; Unbinding. And if I were to teach the Way and if others would not understand me, that would be tiresome for me, troublesome for me."
+“For a generation delighting in attachment, excited by attachment, enjoying attachment, this/that conditionality and dependent co-arising are hard to see. This state, too, is hard to see: the resolution of all fabrications, the relinquishment of all acquisitions, the ending of craving; dispassion; cessation; Unbinding. And if I were to teach the Way and if others would not understand me, that would be tiresome for me, troublesome for me.”
 
 — *Ariyapariyesanā Sutta*, Majjhima Nikāya 26 (trans. Thanissaro)
 
@@ -864,22 +864,22 @@ quite appreciative of the stone, but the stone remains ever content.”
 ### Diamond Sutra
 
 
-"The past mind is ungraspable. The present mind is ungraspable. The future mind is ungraspable."
+“The past mind is ungraspable. The present mind is ungraspable. The future mind is ungraspable.”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)*
 
 
-“Therefore anyone who seeks total Enlightenment should discard not only all conceptions of their own selfhood, of other selves, or of a universal self, but they should also discard all notions of the non-existence of such concepts."
+“Therefore anyone who seeks total Enlightenment should discard not only all conceptions of their own selfhood, of other selves, or of a universal self, but they should also discard all notions of the non-existence of such concepts.”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)*
 
 
-"What the Tathagata has called the highest, transcendent understanding is not, in fact, the highest, transcendent understanding. That is why it is truly the highest, transcendent understanding.”
+“What the Tathagata has called the highest, transcendent understanding is not, in fact, the highest, transcendent understanding. That is why it is truly the highest, transcendent understanding.”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)*
 
 
-"That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, 'Bhikshus, you should know that all of the teachings I give to you are a raft. All teachings must be abandoned, not to mention non-teachings.’”
+“That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, ‘Bhikshus, you should know that all of the teachings I give to you are a raft. All teachings must be abandoned, not to mention non-teachings.’”
 
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)* (the raft simile)
 
@@ -887,7 +887,7 @@ quite appreciative of the stone, but the stone remains ever content.”
 ### Lotus Sutra
 
 
-“’Now these three realms are all my beings. All sentient beings in these realms are my children.’” Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas."
+“‘Now these three realms are all my beings. All sentient beings in these realms are my children.’ Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas.”
 
 — Buddha quoted from the *Lotus Sutra* (burning house parable, ch. 3), framed by Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" (Making Offerings to Buddhas)
 
@@ -958,7 +958,7 @@ full rejoicing”
 ### Bhagavad Gita
 
 
-He who thinks of This (Atman) as slayer and he who believes This to be slain, are both ignorant. This neither slays nor is ever slain.
+“He who thinks of This (Atman) as slayer and he who believes This to be slain, are both ignorant. This neither slays nor is ever slain.”
 
 — *Bhagavad Gita* 2.19 (also *Katha Upanishad* 2.19)
 
@@ -1151,9 +1151,6 @@ Cravings, aversions, fixed judgments, concepts, beliefs
 — source pending
 
 
-## Uncategorized
-
-
 “I, the great earth and all beings are complete and absolutely free.”
 
-— paraphrase of Shakyamuni Buddha's awakening declaration ("I, the great earth, and all beings simultaneously attained the Way")
+— paraphrase of Shakyamuni Buddha’s awakening declaration (“I, the great earth, and all beings simultaneously attained the Way”) (source pending)
