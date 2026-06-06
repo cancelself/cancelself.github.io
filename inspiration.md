@@ -1058,11 +1058,6 @@ Then I commended mirth, because a man hath no better thing under the sun, than t
 ### Meister Eckhart
 
 
-“It is older than God: There is no God when there is nothing but God.”
-
-— attrib. Meister Eckhart (source pending)
-
-
 “Today means boundless and inexhaustible eternity. Months and years and all periods of time are concepts of men, who gauge everything by number; but the true name of eternity is Today.”
 
 — Meister Eckhart
@@ -1128,12 +1123,17 @@ Cravings, aversions, fixed judgments, concepts, beliefs
 — Stephen Mitchell, *The Gospel According to Jesus*
 
 
+“It is older than God: There is no God when there is nothing but God.”
+
+— Stephen Mitchell, *Tao Te Ching* (ch. 4 translation & commentary) (often misattributed to Meister Eckhart)
+
+
 ## Source Pending
 
 
 “Whatever effort it may embody, it is an effortless effort.”
 
-— traditional Taoist/Zen principle (cf. *wu wei*)
+— attrib. Dōgen (transl. Kazuaki Tanahashi / "Kaz"; source pending)
 
 
 “Be careful who you get close to because when you do get close you start to grow together. You start to mix thoughts, ideas, and actions. Like how two plants growing next to each other have tangled roots. It can be the most enriching thing or the hardest thing to take apart.”
