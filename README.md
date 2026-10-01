@@ -102,13 +102,13 @@ Ask: *Who was thinking? Who stopped?*
 
 Seeing clearly is not enough. The poisons are habitual. Training is required.
 
-**Virtue** ([Sīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
+**Skillfulness** ([Sīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
-**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
+**Insight** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage sat in the field, undisturbed. Alexander and the army arose and fell of their own accord.
 
-The three trainings support each other. They work together to stop the engine: virtue creates the conditions for concentration, concentration deepens wisdom, wisdom clarifies what virtue requires. Virtue starves hatred, concentration stills greed, wisdom dissolves delusion. The engine stops. No exhaust. No poison.
+The three trainings support each other. They work together to stop the engine: skillfulness creates the conditions for concentration, concentration deepens insight, insight clarifies what skillfulness requires. Skillfulness starves hatred, concentration stills greed, insight dissolves delusion. The engine stops. No exhaust. No poison.
 
 -----
 
@@ -123,8 +123,8 @@ The sage said, "Stop looking at the army."
 
 Today, try one of each:
 
-**Virtue** — Refrain from one small harm you'd normally ignore.
-**Wisdom** — Trace one thing you use back through its causes.
+**Skillfulness** — Refrain from one small harm you'd normally ignore.
+**Insight** — Trace one thing you use back through its causes.
 **Concentration** — For five minutes, just breathe. When you wander, return. The returning is the practice.
 
 -----
