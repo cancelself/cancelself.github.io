@@ -63,22 +63,25 @@
       color: #888;
       margin-right: 0.3em;
     }
-    details[open] summary::before {
+    details[open] > summary::before {
       content: '▼ ';
     }
     details .md-details-body {
       padding-top: 0.4em;
       padding-left: 1.4em;
     }
+    details .md-details-body > details:first-child {
+      margin-top: 0;
+    }
   </style>
 </head>
 <body>
   <div id="content"></div>
+  {% assign inspiration_page = site.pages | where: "path", "inspiration.md" | first %}
   <script>
     var raw = {{ page.content | jsonify }};
+    var inspirationRaw = {{ inspiration_page.content | jsonify }};
     var container = document.getElementById('content');
-    var lines = raw.split('\n');
-    var detailStack = [];
 
     function renderLine(line, parent) {
       var div = document.createElement('div');
@@ -111,46 +114,80 @@
       parent.appendChild(div);
     }
 
-    function closeDetailsAtOrAbove(level) {
-      while (detailStack.length && detailStack[detailStack.length - 1].level >= level) {
-        detailStack.pop();
+    function offsetHeading(line, offset) {
+      var headingMatch = line.match(/^(#{1,6})( .*)$/);
+      if (!headingMatch || !offset) {
+        return line;
+      }
+      return '#'.repeat(Math.min(headingMatch[1].length + offset, 6)) + headingMatch[2];
+    }
+
+    function renderDocument(lines, root, headingOffset, skipTitle) {
+      var detailStack = [];
+      var contentStarted = !skipTitle;
+
+      function closeDetailsAtOrAbove(level) {
+        while (detailStack.length && detailStack[detailStack.length - 1].level >= level) {
+          detailStack.pop();
+        }
+      }
+
+      function currentParent() {
+        if (detailStack.length) {
+          return detailStack[detailStack.length - 1].body;
+        }
+        return root;
+      }
+
+      for (var i = 0; i < lines.length; i++) {
+        var line = offsetHeading(lines[i], headingOffset);
+
+        if (skipTitle && line.match(/^#{1,6} Inspiration\s*$/)) {
+          continue;
+        }
+
+        if (!contentStarted && line.match(/^\s*$/)) {
+          continue;
+        }
+        contentStarted = true;
+
+        if (line.trim() === '<!-- inspiration-outline -->') {
+          renderDocument(inspirationRaw.split('\n'), currentParent(), 1, true);
+          continue;
+        }
+
+        var collapseMatch = line.match(/^(#{1,6}) (.+?) <!--\+-->\s*$/);
+
+        if (collapseMatch) {
+          var level = collapseMatch[1].length;
+          closeDetailsAtOrAbove(level);
+
+          var currentDetails = document.createElement('details');
+          var summary = document.createElement('summary');
+          summary.textContent = collapseMatch[1] + ' ' + collapseMatch[2];
+          currentDetails.appendChild(summary);
+          var detailsBody = document.createElement('div');
+          detailsBody.className = 'md-details-body';
+          currentDetails.appendChild(detailsBody);
+          var parent = currentParent();
+          while (parent.lastElementChild && parent.lastElementChild.classList.contains('md-blank')) {
+            parent.lastElementChild.remove();
+          }
+          parent.appendChild(currentDetails);
+          detailStack.push({ level: level, body: detailsBody });
+          continue;
+        }
+
+        var headingMatch = line.match(/^(#{1,6}) /);
+        if (headingMatch) {
+          closeDetailsAtOrAbove(headingMatch[1].length);
+        }
+
+        renderLine(line, currentParent());
       }
     }
 
-    function currentParent() {
-      if (detailStack.length) {
-        return detailStack[detailStack.length - 1].body;
-      }
-      return container;
-    }
-
-    for (var i = 0; i < lines.length; i++) {
-      var line = lines[i];
-      var collapseMatch = line.match(/^(#{1,4}) (.+?) <!--\+-->\s*$/);
-
-      if (collapseMatch) {
-        var level = collapseMatch[1].length;
-        closeDetailsAtOrAbove(level);
-
-        var currentDetails = document.createElement('details');
-        var summary = document.createElement('summary');
-        summary.textContent = collapseMatch[1] + ' ' + collapseMatch[2];
-        currentDetails.appendChild(summary);
-        var detailsBody = document.createElement('div');
-        detailsBody.className = 'md-details-body';
-        currentDetails.appendChild(detailsBody);
-        currentParent().appendChild(currentDetails);
-        detailStack.push({ level: level, body: detailsBody });
-        continue;
-      }
-
-      var headingMatch = line.match(/^(#{1,4}) /);
-      if (headingMatch) {
-        closeDetailsAtOrAbove(headingMatch[1].length);
-      }
-
-      renderLine(line, currentParent());
-    }
+    renderDocument(raw.split('\n'), container, 0, false);
 
     function escapeHtml(text) {
       var d = document.createElement('div');

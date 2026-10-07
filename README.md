@@ -23,7 +23,7 @@ He asked: *What more is there to conquer?*
 
 A sage stamped the ground.
 
-> "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you." — Arrian, *Anabasis of Alexander* 7.1
+> "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you." — [Arrian](https://en.wikipedia.org/wiki/Arrian)
 
 Alexander stood in the field. His empire shrank to the size of his sandals.
 
@@ -71,7 +71,7 @@ Ask: *Is this greed, hatred, or delusion?*
 
 -----
 
-## Three Marks: What Is This Moment?
+## Three Marks: What Is This?
 
 The sage said: *Is this not enough?*
 But what is this moment?
@@ -108,7 +108,7 @@ Seeing clearly is not enough. The poisons are habitual. Training is required.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage sat in the field, undisturbed. Alexander and the army arose and fell of their own accord.
 
-The three trainings support each other. They work together to stop the engine: virtue creates the conditions for concentration, concentration deepens wisdom, wisdom clarifies what virtue requires. Virtue starves hatred, concentration stills greed, wisdom dissolves delusion. The engine stops. No exhaust. No poison.
+The three trainings support each other. They work together to stop the engine. Once the engine stops, no exhaust, no poison.
 
 -----
 
@@ -190,5 +190,4 @@ The treasury of the dharma eye entrusted:
 > Amazing! Who knew fire + water were so connected?
 
 ## Inspiration <!--+-->
-
-[Open the inspiration archive →](https://cancelself.github.io/inspiration/)
+<!-- inspiration-outline -->
