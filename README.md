@@ -23,7 +23,7 @@ He asked: *What more is there to conquer?*
 
 A sage stamped the ground.
 
-> "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you. Is this moment not enough?"
+> "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you." — Arrian, *Anabasis of Alexander* 7.1
 
 Alexander stood in the field. His empire shrank to the size of his sandals.
 
@@ -39,11 +39,11 @@ The sage said, "The dust settling again."
 ### Practice
 
 Pause. Notice the ground under your feet.
-Ask: *Is this moment not enough?*
+Ask: *Is this not enough?*
 
 -----
 
-## Three Poisons: Why This Moment Is Not Enough?
+## Three Poisons: Why This Is Not Enough?
 
 Alexander conquered the known world and still thirsted. Why?
 
@@ -73,7 +73,7 @@ Ask: *Is this greed, hatred, or delusion?*
 
 ## Three Marks: What Is This Moment?
 
-The sage said: *Is this moment not enough?*
+The sage said: *Is this not enough?*
 But what is this moment?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. The face stamped on his coin. Clinging to any of it is gripping sand.
@@ -102,13 +102,13 @@ Ask: *Who was thinking? Who stopped?*
 
 Seeing clearly is not enough. The poisons are habitual. Training is required.
 
-**Skillfulness** ([Sīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
+**Virtue** ([Sīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
-**Insight** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
+**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage sat in the field, undisturbed. Alexander and the army arose and fell of their own accord.
 
-The three trainings support each other. They work together to stop the engine: skillfulness creates the conditions for concentration, concentration deepens insight, insight clarifies what skillfulness requires. Skillfulness starves hatred, concentration stills greed, insight dissolves delusion. The engine stops. No exhaust. No poison.
+The three trainings support each other. They work together to stop the engine: virtue creates the conditions for concentration, concentration deepens wisdom, wisdom clarifies what virtue requires. Virtue starves hatred, concentration stills greed, wisdom dissolves delusion. The engine stops. No exhaust. No poison.
 
 -----
 
@@ -123,8 +123,8 @@ The sage said, "Stop looking at the army."
 
 Today, try one of each:
 
-**Skillfulness** — Refrain from one small harm you'd normally ignore.
-**Insight** — Trace one thing you use back through its causes.
+**Virtue** — Refrain from one small harm you'd normally ignore.
+**Wisdom** — Trace one thing you use back through its causes.
 **Concentration** — For five minutes, just breathe. When you wander, return. The returning is the practice.
 
 -----
@@ -189,3 +189,6 @@ The treasury of the dharma eye entrusted:
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 
+## Inspiration <!--+-->
+
+[Open the inspiration archive →](https://cancelself.github.io/inspiration/)

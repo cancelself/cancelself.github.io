@@ -6,10 +6,10 @@ title: Inspiration
 # Inspiration
 
 
-## Chinese Chan
+## Chinese Chan <!--+-->
 
 
-### Huineng
+### Huineng <!--+-->
 
 
 “With those who are sympathetic
@@ -33,7 +33,7 @@ Then Huineng said, ‘It is not the banner that is flapping. It is not the wind 
 — *Platform Sutra of the Sixth Patriarch* (Huineng); also *Wumenguan* case 29
 
 
-### Mazu Daoyi
+### Mazu Daoyi <!--+-->
 
 
 “Mazu asked, ‘What sutras do you teach?’ 
@@ -64,7 +64,7 @@ is calling you by your childhood name.”
 — Mazu Daoyi (馬祖道一), *Guzunsu Yulu* (Recorded Sayings of the Ancient Worthies) / traditional Zen verse
 
 
-### Bai Juyi
+### Bai Juyi <!--+-->
 
 
 "He who talks doesn't know,
@@ -77,7 +77,7 @@ how could he have been such a blabbermouth?
 — Bai Juyi (Bo Juyi), "Reading Lao Tzu" (Tang dynasty)
 
 
-### Damei Fachang
+### Damei Fachang <!--+-->
 
 
 “Wearing lotus leaves from this pond—inexhaustible,
@@ -88,7 +88,7 @@ I am moving my hut further away.”
 — Damei Fachang (大梅法常), *Jingde Chuandeng Lu* (Record of the Transmission of the Lamp)
 
 
-### Dongshan Liangjie
+### Dongshan Liangjie <!--+-->
 
 
 “Completely avoid seeking from others. Now I travel alone; everywhere I can meet it. It is now truly me, but I am not it. Understanding like this, we finally harmonize with thusness.”
@@ -96,7 +96,7 @@ I am moving my hut further away.”
 — Dongshan Liangjie, awakening verse, *Record of Dongshan*
 
 
-### Yunmen/Chan Idiom
+### Yunmen/Chan Idiom <!--+-->
 
 
 “To give instructions is like gouging a wound in good flesh.”
@@ -104,7 +104,7 @@ I am moving my hut further away.”
 — traditional Chan idiom (cf. *Wumenguan* Preface, *Record of Linji*)
 
 
-### Hongzhi Zhengjue
+### Hongzhi Zhengjue <!--+-->
 
 
 “It is not that there are no words, but just not-knowing. Not-knowing is a straightforward bare heart. It is bright and clear not-seeing.”
@@ -112,7 +112,7 @@ I am moving my hut further away.”
 — attrib. Hongzhi Zhengjue (cf. *Book of Serenity* Case 20 on "not-knowing")
 
 
-### Wumen Huikai
+### Wumen Huikai <!--+-->
 
 
 Holding out a flower,
@@ -136,7 +136,7 @@ With loot in your pocket, you declare yourself innocent.”
 — Wumen Huikai, preface to the *Wumenguan* (Gateless Gate / Mumonkan) — opening verse
 
 
-### Book of Serenity
+### Book of Serenity <!--+-->
 
 
 “Fayan was going on pilgrimage.
@@ -149,13 +149,13 @@ Dizang said, ‘Not knowing is most intimate.’”
 — *Book of Serenity (Shōyōroku)*, Case 20
 
 
-## Japanese Zen
+## Japanese Zen <!--+-->
 
 
-### Dōgen
+### Dōgen <!--+-->
 
 
-#### Shōbōgenzō
+#### Shōbōgenzō <!--+-->
 
 
 “Without attachment, one who buys gold sells gold. This is called the mystery of mysteries, the wonder of wonders, the awakening of awakenings, the head top above the head. This is the daily activity of buddha ancestors.”
@@ -489,7 +489,7 @@ But there should be a way to be free from hindrance. What, then, is the way for 
 — Dōgen, *Shōbōgenzō*
 
 
-#### Fukan Zazengi
+#### Fukan Zazengi <!--+-->
 
 
 "Zazen is the dharma gate of enjoyment and ease.”
@@ -502,7 +502,7 @@ But there should be a way to be free from hindrance. What, then, is the way for 
 — Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
 
 
-#### Gakudō Yōjinshū
+#### Gakudō Yōjinshū <!--+-->
 
 
 If ever you value fame and gain, then be compassionate to fame and gain. If you are compassionate to fame and gain, you will not allow them to break the body that can become a bud-dha ancestor. Being compassionate to family and relatives is also like this. Do not think that fame and gain are phantoms and illusions, but regard them as sentient beings. If you are not compassionate to fame and gain, you will accumulate unwholesome actions. The true eye of study should be like this.
@@ -510,7 +510,7 @@ If ever you value fame and gain, then be compassionate to fame and gain. If you 
 — Dōgen, *Gakudō Yōjinshū* (Points to Watch in Practicing the Way)
 
 
-#### Eihei Kōroku
+#### Eihei Kōroku <!--+-->
 
 
 A wild fox spirit hides in grass for six years,
@@ -542,7 +542,7 @@ What is this broken wooden ladle?”
 — Dōgen, *Eihei Kōroku*, Volume 10 (verse on Shakyamuni Buddha coming down the mountain)
 
 
-### Keizan
+### Keizan <!--+-->
 
 
 “You should just rest and cease. Be cooled, pass numberless years as this moment. Be cold ashes, a withered tree, an incense burner in an abandoned temple, a piece of unstained silk.”
@@ -550,7 +550,7 @@ What is this broken wooden ladle?”
 — Keizan, *Zazen Yōjinki* (Points to Watch in Zazen)
 
 
-### Hakuun Yasutani
+### Hakuun Yasutani <!--+-->
 
 
 It is extremely important for us to realize that the essential nature of our own self and the essential substance of the whole universe is one. The fact of this essential nature cannot be transmitted by thoughts or explanations. No words, no matter how clearly we may understand them, will bring us to a realization of this essential nature.
@@ -560,7 +560,7 @@ enlightenment, all of these expressions will become as clear as a jewel in the p
 — Hakuun Yasutani, *Introductory Lectures on Zen Training* (in Kapleau, *The Three Pillars of Zen*)
 
 
-### Soyen Shaku
+### Soyen Shaku <!--+-->
 
 
 "Don't think that your body is your body; it's the body of all beings. Don't think that your mind is your mind; it's the mind of all beings."
@@ -568,7 +568,7 @@ enlightenment, all of these expressions will become as clear as a jewel in the p
 — Soyen Shaku (translated by Nyogen Senzaki), "First Step in Zazen"
 
 
-### Sōtō Liturgy
+### Sōtō Liturgy <!--+-->
 
 
 Although my past unwholesome actions have accumulated, causing hindrance in the study of the way, may buddhas and ancestors release me from these actions and liberate me. May the merit of practicing dharma fill inexhaustible worlds of phenomena. May compassion be extended to me.
@@ -576,10 +576,10 @@ Although my past unwholesome actions have accumulated, causing hindrance in the 
 — Sōtō Zen liturgy of repentance (cf. Dōgen, *Shōbōgenzō*, "Keisei Sanshoku")
 
 
-## Vietnamese Zen
+## Vietnamese Zen <!--+-->
 
 
-### Thich Nhat Hanh
+### Thich Nhat Hanh <!--+-->
 
 
 One day, when you face this beast alone, with your courage intact, your eyes kind, untroubled
@@ -620,10 +620,10 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 — Thich Nhat Hanh, *The Diamond That Cuts Through Illusion*
 
 
-## American Zen
+## American Zen <!--+-->
 
 
-### Shunryu Suzuki
+### Shunryu Suzuki <!--+-->
 
 
 Moment after moment you must be free from the beautiful form you created, because the moment in which that form existed has already gone, and the next moment is coming up. Life becomes mature constantly. You cannot stop it, not even for a moment, so you have to keep going. You must keep practicing to create this beauty again and again. This is spiritual creativity.
@@ -656,7 +656,7 @@ But usually, without being aware of it, we try to change something other than ou
 — Shunryu Suzuki, *Zen Mind, Beginner's Mind*
 
 
-### Charlotte Joko Beck
+### Charlotte Joko Beck <!--+-->
 
 
 Caught in the self-centered dream, only suffering; holding to self-centered thoughts, exactly the dream; each moment, life as it is, the only teacher; being just this moment, compassion's way.
@@ -669,7 +669,7 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Charlotte Joko Beck, *Nothing Special: Living Zen*
 
 
-### Dainin Katagiri
+### Dainin Katagiri <!--+-->
 
 
 “Life is an emergency case! Where is the emergency? Is it a particular situation, one day of your life? No, every moment of every day is an emergency. You have to do your best to face every moment, because this moment will never come again. The moment that you are living right now is a very important opportunity to make your life vividly alive. If you want to live with spiritual security in the midst of constant change, you have to burn the flame of your life force in everything you do.”
@@ -677,7 +677,7 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Dainin Katagiri, *Each Moment Is the Universe*
 
 
-### Bernie Glassman
+### Bernie Glassman <!--+-->
 
 
 "When we live our life fully, using all the ingredients at hand, our life becomes what Zen Buddhists call "the supreme meal." A person who knows how to plan, cook, appreciate, and offer the supreme meal of life, is called a Zen cook"
@@ -685,7 +685,7 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Bernie Glassman & Rick Fields, *Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters*
 
 
-### Joseph Goldstein
+### Joseph Goldstein <!--+-->
 
 
 “Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it.”
@@ -693,7 +693,7 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Joseph Goldstein, *The Experience of Insight: A Simple & Direct Guide to Buddhist Meditation*
 
 
-### Shinshu Roberts
+### Shinshu Roberts <!--+-->
 
 
 “Serendipity and causality function simultaneously.”
@@ -701,10 +701,10 @@ Caught in the self-centered dream, only suffering; holding to self-centered thou
 — Shinshu Roberts
 
 
-## Theravāda
+## Theravāda <!--+-->
 
 
-### Pali Canon
+### Pali Canon <!--+-->
 
 
 “Destroyed is birth, the holy life has been lived, what had to be done has been done, there is no more for this state of being.”
@@ -841,7 +841,7 @@ This is the teaching of all buddhas.
 — *Acela Sutta*, Saṃyutta Nikāya 12.17 (the Buddha to Acela Kassapa, on the middle way between eternalism and annihilationism)
 
 
-### Ajahn Chah
+### Ajahn Chah <!--+-->
 
 
 “Monks ought to behave like a grinding stone.
@@ -858,10 +858,10 @@ quite appreciative of the stone, but the stone remains ever content.”
 — Ajahn Chah, *No Ajahn Chah* (Abhayagiri Monastery)
 
 
-## Mahāyāna
+## Mahāyāna <!--+-->
 
 
-### Diamond Sutra
+### Diamond Sutra <!--+-->
 
 
 “The past mind is ungraspable. The present mind is ungraspable. The future mind is ungraspable.”
@@ -884,7 +884,7 @@ quite appreciative of the stone, but the stone remains ever content.”
 — *Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra)* (the raft simile)
 
 
-### Lotus Sutra
+### Lotus Sutra <!--+-->
 
 
 “‘Now these three realms are all my beings. All sentient beings in these realms are my children.’ Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas.”
@@ -897,7 +897,7 @@ Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who com
 — *Lotus Sutra (Saddharmapuṇḍarīka)*, "Bhaiṣajyarāja" chapter
 
 
-### Saṃdhinirmocana Sūtra
+### Saṃdhinirmocana Sūtra <!--+-->
 
 
 “The sphere that is internally realized without descriptions cannot be spoken and severs expressions. Ultimate meaning, laying to rest all disputes, transcends all the descriptive marks of reasoning.”
@@ -905,7 +905,7 @@ Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who com
 — *Saṃdhinirmocana Sūtra* (Scripture of the Explication of Underlying Meaning), Chapter 2
 
 
-### Nāgārjuna
+### Nāgārjuna <!--+-->
 
 
 Ancestor Nagarjuna said, "Because buddhas venerate the dharma, they make offerings to the dharma and regard it as the teacher. How is it so? Because, all buddhas in the past, present, and future regard the reality of all phenomena as the teacher
@@ -913,7 +913,7 @@ Ancestor Nagarjuna said, "Because buddhas venerate the dharma, they make offerin
 — Nāgārjuna (quoted in Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" — Making Offerings to Buddhas)
 
 
-### Kashyapa Bodhisattva
+### Kashyapa Bodhisattva <!--+-->
 
 
 Although beginner's mind and
@@ -924,7 +924,7 @@ I bow to the beginner's mind that lets others awaken first.
 — Kashyapa Bodhisattva, in Dōgen, *Shōbōgenzō*, "Hotsu Bodaishin" (Arousing the Aspiration for Enlightenment)
 
 
-### Buddha (in Dōgen)
+### Buddha (in Dōgen) <!--+-->
 
 
 ‘Once wholesome or unwholesome karma is done, the effects will not disappear even after a hundred, a thousand, or ten thousand eons. One receives the karmic effect when the conditions for that come together.
@@ -932,7 +932,7 @@ I bow to the beginner's mind that lets others awaken first.
 — attrib. Buddha, quoted in Dōgen, *Shōbōgenzō*, "Sanji Gō" (Karmic Retribution in the Three Temporal Periods)
 
 
-### Liturgy
+### Liturgy <!--+-->
 
 
 “All my ancient twisted karma / from beginningless greed, hate, and delusion / born through body, speech, and mind / I now fully avow.”
@@ -952,10 +952,10 @@ full rejoicing”
 — traditional Pali anumodana (dedication of merit) blessing
 
 
-## Other Eastern
+## Other Eastern <!--+-->
 
 
-### Bhagavad Gita
+### Bhagavad Gita <!--+-->
 
 
 “He who thinks of This (Atman) as slayer and he who believes This to be slain, are both ignorant. This neither slays nor is ever slain.”
@@ -968,7 +968,7 @@ full rejoicing”
 — *Bhagavad Gita* 4.9–11 (Krishna)
 
 
-### Tao Te Ching
+### Tao Te Ching <!--+-->
 
 
 If you realize that all things change, there is nothing you will try to hold on to.
@@ -1001,7 +1001,7 @@ It is the great secret.”
 — *Tao Te Ching*, ch. 27 (trans. Stephen Mitchell)
 
 
-### Li Si
+### Li Si <!--+-->
 
 
 The ocean does not exclude water; that is why it is large. The mountain does not exclude soil; that is why it is high. A wise lord does not exclude people; that is why he has many subjects."
@@ -1009,10 +1009,10 @@ The ocean does not exclude water; that is why it is large. The mountain does not
 — Li Si, "Memorial on the Expulsion of Aliens," in Sima Qian, *Records of the Grand Historian* (Shiji)
 
 
-## Western Religious
+## Western Religious <!--+-->
 
 
-### Hebrew Bible
+### Hebrew Bible <!--+-->
 
 
 “But by means of their suffering, he rescues those who suffer. For he gets their attention through adversity.”
@@ -1042,7 +1042,7 @@ Then I commended mirth, because a man hath no better thing under the sun, than t
 — Ecclesiastes 8:15 (KJV)
 
 
-### New Testament
+### New Testament <!--+-->
 
 
 “The sun rises on the evil and on the good and rain falls on the just and on the unjust. Be perfect, just as your heavenly Father is perfect."
@@ -1055,7 +1055,7 @@ Then I commended mirth, because a man hath no better thing under the sun, than t
 — Matthew 13:43 (KJV)
 
 
-### Meister Eckhart
+### Meister Eckhart <!--+-->
 
 
 “Today means boundless and inexhaustible eternity. Months and years and all periods of time are concepts of men, who gauge everything by number; but the true name of eternity is Today.”
@@ -1063,7 +1063,7 @@ Then I commended mirth, because a man hath no better thing under the sun, than t
 — Meister Eckhart
 
 
-### William Blake
+### William Blake <!--+-->
 
 
 Blake once led the painter Samuel Palmer to his window and, pointing to a group of children at play, said, "That is heaven.”
@@ -1071,10 +1071,10 @@ Blake once led the painter Samuel Palmer to his window and, pointing to a group 
 — Samuel Palmer, recollection of William Blake
 
 
-## Western Philosophy
+## Western Philosophy <!--+-->
 
 
-### Plato
+### Plato <!--+-->
 
 
 “I am wiser than this man; it is likely that neither of us knows anything worthwhile, but he thinks he knows something when he does not, whereas when I do not know, neither do I think I know; so I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.”
@@ -1092,7 +1092,7 @@ Blake once led the painter Samuel Palmer to his window and, pointing to a group 
 — Plato, *Phaedo* 82b–c (Socrates)
 
 
-### Friedrich Nietzsche
+### Friedrich Nietzsche <!--+-->
 
 
 "From the Sun I learned this: when it goes down, overrich; it pours gold into the sea out of inexhaustible riches, so that even the poorest fisherman still rows with golden oars. For this I once saw and I did not tire of my tears as I watched it."
@@ -1100,7 +1100,7 @@ Blake once led the painter Samuel Palmer to his window and, pointing to a group 
 — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part III, §56 "Old and New Tables"
 
 
-### James George Frazer
+### James George Frazer <!--+-->
 
 
 “In the last analysis magic, religion, and science are nothing but theories of thought; and as science has supplanted its predecessors, so it may hereafter be itself superseded by some more perfect hypothesis.
@@ -1109,10 +1109,10 @@ Brighter stars will rise on some voyager of the future some great Ulysses of the
 — James George Frazer, *The Golden Bough*
 
 
-## Modern
+## Modern <!--+-->
 
 
-### Stephen Mitchell
+### Stephen Mitchell <!--+-->
 
 
 “What is purity of heart?
@@ -1128,7 +1128,7 @@ Cravings, aversions, fixed judgments, concepts, beliefs
 — Stephen Mitchell, *Tao Te Ching* (ch. 4 translation & commentary) (often misattributed to Meister Eckhart)
 
 
-## Source Pending
+## Source Pending <!--+-->
 
 
 “Whatever effort it may embody, it is an effortless effort.”

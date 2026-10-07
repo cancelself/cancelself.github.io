@@ -8,7 +8,7 @@
 
 Headings written with a trailing `<!--+-->` HTML comment (e.g. `## Expression <!--+-->`) are **intentional**. They render as ordinary `<h2>` headings on github.com (clean text, auto-anchored, bookmarkable) because GitHub strips HTML comments. On the rendered Jekyll site, the custom renderer in `_layouts/default.html` matches `^(#{1,4}) (.+?) <!--\+-->\s*$` and wraps the heading and everything beneath it in a collapsible `<details>` element — closed by default, opened by clicking the disclosure triangle (▶ / ▼).
 
-A `<details>` block stays open until the next `#` or `##` heading (collapsible or not), or end of file. `###`/`####` headings nest inside the `<details>` rather than closing it.
+A `<details>` block stays open until the next heading at the same or a higher level, or end of file. Lower-level headings remain inside it. Lower-level headings with their own `<!--+-->` markers create nested disclosures, allowing documents such as `inspiration.md` to render as an outline.
 
 Use this for sections that are part of the document but should not demand the reader's attention on first read (e.g. personal expression pieces, appendices). Use plain `## Heading` for sections that should always render expanded.
 
