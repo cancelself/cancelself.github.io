@@ -77,8 +77,7 @@ Ask: *Is this greed, hatred, or delusion?*
 
 ## Three Marks: What Is This?
 
-The sage said: *Is this not enough?*
-But what is this moment?
+But what is this? What did Alexander finally see?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. The face stamped on his coin. Clinging to any of it is gripping sand.
 
@@ -156,7 +155,7 @@ mind.
 Investigating thus,
 insight mirrors,
 waving fields,
-polishing (no)thing.
+polishing nothing.
 
 The treasury of the dharma eye entrusted:
 
