@@ -5,8 +5,6 @@ title: The Great Matter
 
 # The Great Matter
 
-**Godō Shintan Shakya : 悟道深潭釋迦**
-
 -----
 
 ## Dedication
