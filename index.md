@@ -31,10 +31,10 @@ Alexander stood in the field. His empire shrank to the size of his sandals.
 
 -----
 
-A student asked, "What was the sage's teaching?"
-The sage replied, "The hoofprints in the dust."
-The student said, "And Alexander's realization?"
-The sage said, "The dust settling again."
+St: What was the sage's teaching?<br>
+Sg: The hoofprints in the dust.<br>
+St: And Alexander's realization?<br>
+Sg: The dust settling again.
 
 -----
 
@@ -59,10 +59,10 @@ The three work together: delusion imagines an owner, greed feeds it, hatred defe
 
 -----
 
-A student asked, "Which poison is worst?"
-The sage said, "The one you don't notice."
-The student said, "How do I notice it?"
-The sage said, "Who is asking?"
+St: Which poison is worst?<br>
+Sg: The one you don't notice.<br>
+St: How do I notice it?<br>
+Sg: Who is asking?
 
 -----
 
@@ -87,8 +87,8 @@ These three are not separate truths. They are one truth seen from three angles: 
 
 -----
 
-A student asked, "If there is no self, who suffers?"
-The sage said, "The question suffers."
+St: If there is no self, who suffers?<br>
+Sg: The question suffers.
 
 -----
 
@@ -113,10 +113,10 @@ The three trainings support each other. They work together to stop the engine. O
 
 -----
 
-A student asked, "Where do I begin?"
-The sage said, "You are already in the field."
-The student said, "I don't see any sages."
-The sage said, "Stop looking at the army."
+St: Where do I begin?<br>
+Sg: You are already in the field.<br>
+St: I don't see any sages.<br>
+Sg: Stop looking at the army.
 
 -----
 
