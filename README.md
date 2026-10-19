@@ -1,8 +1,6 @@
 
 # The Great Matter
 
-**Godō Shintan Shakya : 悟道深潭釋迦**
-
 -----
 
 ## Dedication
@@ -29,10 +27,10 @@ Alexander stood in the field. His empire shrank to the size of his sandals.
 
 -----
 
-A student asked, "What was the sage's teaching?"
-The sage replied, "The hoofprints in the dust."
-The student said, "And Alexander's realization?"
-The sage said, "The dust settling again."
+Student: What was the sage's teaching?<br>
+Sage: The hoofprints in the dust.<br>
+Student: And Alexander's realization?<br>
+Sage: The dust settling again.
 
 -----
 
@@ -57,10 +55,10 @@ The three work together: delusion imagines an owner, greed feeds it, hatred defe
 
 -----
 
-A student asked, "Which poison is worst?"
-The sage said, "The one you don't notice."
-The student said, "How do I notice it?"
-The sage said, "Who is asking?"
+Student: Which poison is worst?<br>
+Sage: The one you don't notice.<br>
+Student: How do I notice it?<br>
+Sage: Who is asking?
 
 -----
 
@@ -85,8 +83,8 @@ These three are not separate truths. They are one truth seen from three angles: 
 
 -----
 
-A student asked, "If there is no self, who suffers?"
-The sage said, "The question suffers."
+Student: If there is no self, who suffers?<br>
+Sage: The question suffers.
 
 -----
 
@@ -111,10 +109,10 @@ The three trainings support each other. They work together to stop the engine. O
 
 -----
 
-A student asked, "Where do I begin?"
-The sage said, "You are already in the field."
-The student said, "I don't see any sages."
-The sage said, "Stop looking at the army."
+Student: Where do I begin?<br>
+Sage: You are already in the field.<br>
+Student: I don't see any sages.<br>
+Sage: Stop looking at the army.
 
 -----
 
