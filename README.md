@@ -26,8 +26,11 @@ Alexander stood in the field. His empire shrank to the size of his sandals.
 -----
 
 Student: What was the sage's teaching?
+
 Sage: The hoofprints in the dust.
+
 Student: And Alexander's realization?
+
 Sage: The dust settling again.
 
 -----
@@ -35,6 +38,7 @@ Sage: The dust settling again.
 ### Practice
 
 Pause. Notice the ground under your feet.
+
 Ask: *Is this not enough?*
 
 -----
