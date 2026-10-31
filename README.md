@@ -132,7 +132,9 @@ Sage: Stop looking at the army.
 Today, try one of each:
 
 **Virtue** — Refrain from one small harm you'd normally ignore.
+
 **Wisdom** — Trace one thing you use back through its causes.
+
 **Concentration** — For five minutes, just breathe. When you wander, return. The returning is the practice.
 
 -----
