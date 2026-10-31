@@ -17,8 +17,6 @@ To Mahāyāna and Theravāda — may we meet on the other shore.
 
 Alexander crossed continents, leaving nations buried in hoofprints. He arrived at a field where sages sat, eyes closed, unmoved by the dust of his army.
 
-He asked: *What more is there to conquer?*
-
 A sage stamped the ground.
 
 > "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you." — [Arrian](https://en.wikipedia.org/wiki/Arrian)
@@ -182,7 +180,7 @@ The treasury of the dharma eye entrusted:
 
 ## Jisei (辞世) <!--+-->
 
-> For fifty-four years, a purifying flame.
+> For fifty-five years, a purifying flame.
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 
