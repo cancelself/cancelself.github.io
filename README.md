@@ -58,8 +58,11 @@ The three work together: delusion imagines an owner, greed feeds it, hatred defe
 -----
 
 Student: Which poison is worst?
+
 Sage: The one you don't notice.
+
 Student: How do I notice it?
+
 Sage: Who is asking?
 
 -----
@@ -67,6 +70,7 @@ Sage: Who is asking?
 ### Practice
 
 When you reach for something, pause.
+
 Ask: *Is this greed, hatred, or delusion?*
 
 -----
@@ -86,6 +90,7 @@ These three are not separate truths. They are one truth seen from three angles: 
 -----
 
 Student: If there is no self, who suffers?
+
 Sage: The question suffers.
 
 -----
@@ -93,6 +98,7 @@ Sage: The question suffers.
 ### Practice
 
 Sit. Watch a thought arise. Watch it vanish.
+
 Ask: *Who was thinking? Who stopped?*
 
 -----
@@ -112,8 +118,11 @@ The three trainings support each other. They work together to stop the engine. O
 -----
 
 Student: Where do I begin?
+
 Sage: You are already in the field.
+
 Student: I don't see any sages.
+
 Sage: Stop looking at the army.
 
 -----
