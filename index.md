@@ -21,8 +21,6 @@ To Mahāyāna and Theravāda — may we meet on the other shore.
 
 Alexander crossed continents, leaving nations buried in hoofprints. He arrived at a field where sages sat, eyes closed, unmoved by the dust of his army.
 
-He asked: *What more is there to conquer?*
-
 A sage stamped the ground.
 
 > "King Alexander, everyone can possess only so much of the earth's surface as this we are standing on. You are human like the rest of us, except you are always busy and up to no good, traveling so far from your home, a nuisance to yourself and to others. Ah well! You will soon be dead, and then you will own just as much of this earth as needed to bury you." — [Arrian](https://en.wikipedia.org/wiki/Arrian)
@@ -31,10 +29,10 @@ Alexander stood in the field. His empire shrank to the size of his sandals.
 
 -----
 
-Student: What was the sage's teaching?
-Sage: The hoofprints in the dust.
-Student: And Alexander's realization?
-Sage: The dust settling again.
+Student: "What was the sage's teaching?"
+Sage: "The hoofprints in the dust."
+Student: "And Alexander's realization?"
+Sage: "The dust settling again."
 
 -----
 
@@ -59,10 +57,10 @@ The three work together: delusion imagines an owner, greed feeds it, hatred defe
 
 -----
 
-Student: Which poison is worst?
-Sage: The one you don't notice.
-Student: How do I notice it?
-Sage: Who is asking?
+Student: "Which poison is worst?"
+Sage: "The one you don't notice."
+Student: "How do I notice it?"
+Sage: "Who is asking?"
 
 -----
 
@@ -87,8 +85,8 @@ These three are not separate truths. They are one truth seen from three angles: 
 
 -----
 
-Student: If there is no self, who suffers?
-Sage: The question suffers.
+Student: "If there is no self, who suffers?"
+Sage: "The question suffers."
 
 -----
 
@@ -113,10 +111,10 @@ The three trainings support each other. They work together to stop the engine. O
 
 -----
 
-Student: Where do I begin?
-Sage: You are already in the field.
-Student: I don't see any sages.
-Sage: Stop looking at the army.
+Student: "Where do I begin?"
+Sage: "You are already in the field."
+Student: "I don't see any sages."
+Sage: "Stop looking at the army."
 
 -----
 
