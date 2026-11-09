@@ -74,6 +74,17 @@
       margin-top: 0;
     }
 
+    @media (prefers-color-scheme: dark) {
+      body { background: #0e0e0e; color: #ccc; }
+      #content { background: #1c1c1c; border-color: #333; box-shadow: 1px 1px 0 #000; }
+      .md-h1, .md-h2, .md-h3, .md-h4, .md-bold, details summary { color: #fff; }
+      .md-blockquote { color: #aaa; }
+      .md-hr { color: #555; }
+      .md-link { color: #6cb6ff; }
+      .md-link:hover { color: #9ccdff; }
+      details summary::before { color: #888; }
+    }
+
     @media (max-width: 600px) {
       body {
         padding: 16px 10px;
