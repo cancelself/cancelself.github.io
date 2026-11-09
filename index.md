@@ -7,10 +7,6 @@ title: The Great Matter
 
 -----
 
-## Dedication
-
-To Mahāyāna and Theravāda — may we meet on the other shore.
-
 ## Motivation
 
 > "There is nothing here that has not been said before, and I have no skill in the art of composition. Therefore I write this only to acquaint it to my mind." — [Śāntideva](https://en.wikipedia.org/wiki/%C5%9A%C4%81ntideva)
@@ -132,6 +128,10 @@ Today, try one of each:
 
 Alexander died at thirty-two in Babylon. The field is still here.
 
+## Dedication <!--+-->
+
+To Mahāyāna and Theravāda — may we meet on the other shore.
+
 ## Expression <!--+-->
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
@@ -161,7 +161,7 @@ The treasury of the dharma eye entrusted:
 
 ## Jisei (辞世) <!--+-->
 
-> For fifty-four years, a purifying flame.
+> For fifty-five years, a purifying flame.
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 

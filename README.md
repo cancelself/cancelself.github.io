@@ -3,10 +3,6 @@
 
 -----
 
-## Dedication
-
-To Mahāyāna and Theravāda — may we meet on the other shore.
-
 ## Motivation
 
 > "There is nothing here that has not been said before, and I have no skill in the art of composition. Therefore I write this only to acquaint it to my mind." — [Śāntideva](https://en.wikipedia.org/wiki/%C5%9A%C4%81ntideva)
@@ -142,6 +138,10 @@ Today, try one of each:
 ## Coda
 
 Alexander died at thirty-two in Babylon. The field is still here.
+
+## Dedication <!--+-->
+
+To Mahāyāna and Theravāda — may we meet on the other shore.
 
 ## Expression <!--+-->
 
