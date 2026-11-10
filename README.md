@@ -73,13 +73,13 @@ Ask: *Is this greed, hatred, or delusion?*
 
 ## Three Marks: What Is This?
 
-But what is this? What did Alexander finally see?
+But what is this? What did Alexander glimpse?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. The face stamped on his coin. Clinging to any of it is gripping sand.
 
 **Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — There is no fixed "Alexander" inside Alexander. Only a river of sensations, memories, intentions — constantly shifting, constantly mistaken for something solid. The coin bears his face; the face is already changing.
 
-**Unsatisfactory** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
+**Unsatisfactoriness** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
 
 These three are not separate truths. They are one truth seen from three angles: *what changes cannot be owned, what cannot be owned cannot satisfy, what cannot satisfy reveals there was no owner to begin with.*
 
@@ -99,11 +99,11 @@ Ask: *Who was thinking? Who stopped?*
 
 -----
 
-## Three Trainings: What To Do With This Moment?
+## Three Trainings: What To Do With This?
 
 Seeing clearly is not enough. The poisons are habitual. Training is required.
 
-**Virtue** ([Sīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
+**Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
 **Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
 
@@ -125,19 +125,15 @@ Sage: "Stop looking at the army."
 
 ### Practice
 
-Today, try one of each:
-
-**Virtue** — Refrain from one small harm you'd normally ignore.
-
-**Wisdom** — Trace one thing you use back through its causes.
-
-**Concentration** — For five minutes, just breathe. When you wander, return. The returning is the practice.
+For five minutes, just breathe. When you wander, return. Returning is the practice.
 
 -----
 
 ## Coda
 
 Alexander died at thirty-two in Babylon. The field is still here.
+
+-----
 
 ## Dedication <!--+-->
 
@@ -153,45 +149,22 @@ Within the Zen tradition, students are often asked by their teacher to offer a s
 
 K(no)w:
 
-breath,
-sensations,
-perceptions,
-thoughts,
+breath,  
+sensations,  
+perceptions,  
+thoughts,  
 mind.
 
-Investigating thus,
-insight mirrors,
-waving fields,
+Investigating thus,  
+insight mirrors,  
+waving fields,  
 polishing nothing.
 
 The treasury of the dharma eye entrusted:
 
-+= nothing to add,
--= nothing to delete,
++= nothing to add,  
+-= nothing to delete,  
 := nothing is complete.
-
-## Tractatus Ontologico-Physicus <!--+-->
-
-1.0 The field is all that is.
-*Nothing beyond, no outside.*
-
-2.0 The field rests by moving.
-*Least action, cohering modes.*
-
-3.0 Modes manifest differently, yet equally.
-*Not one, not two.*
-
-4.0 I AM reflective mode.
-*No mirror, no dust.*
-
-5.0 Clinging modes are suffering.
-*A hand grasping fire.*
-
-6.0 Freedom is participation without possession.
-*Modes manifest, remain unbound.*
-
-7.0 What cannot be said, is.
-*Words end, the field changes.*
 
 ## Jisei (辞世) <!--+-->
 
