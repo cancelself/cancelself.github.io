@@ -79,7 +79,7 @@ But what is this? What did Alexander glimpse?
 
 **Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — There is no fixed "Alexander" inside Alexander. Only a river of sensations, memories, intentions — constantly shifting, constantly mistaken for something solid. The coin bears his face; the face is already changing.
 
-**Unsatisfactoriness** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
+**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
 
 These three are not separate truths. They are one truth seen from three angles: *what changes cannot be owned, what cannot be owned cannot satisfy, what cannot satisfy reveals there was no owner to begin with.*
 
