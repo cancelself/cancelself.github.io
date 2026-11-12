@@ -2,7 +2,7 @@
 
 ## Keep README.md in sync with index.md
 
-`README.md` mirrors the body of `index.md` (the site's homepage). Any edit to `index.md` must be applied to `README.md` as well, and vice versa. The README has no Jekyll frontmatter or `# The Great Matter` H1 line, but everything from the `**Godō...**` byline onward should match.
+`README.md` mirrors the body of `index.md` (the site's homepage). Any edit to `index.md` must be applied to `README.md` as well, and vice versa. The README omits the Jekyll frontmatter at the top of `index.md`, but everything from `# The Great Matter` onward should match (with blank lines or trailing two spaces where needed for GitHub Markdown line breaks).
 
 ## `## Heading <!--+-->` is a disclosure-triangle marker, not a typo
 
