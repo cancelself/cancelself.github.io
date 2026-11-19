@@ -15,7 +15,7 @@ title: The Great Matter
 
 ## The Field
 
-Alexander crossed continents, leaving nations buried in hoofprints. He arrived at a field where sages sat, eyes closed, unmoved by the dust of his army.
+Alexander crossed continents, leaving nations buried in hoofprints. He arrived at a field where sages stood, unmoved by the dust of his army.
 
 A sage stamped the ground.
 
@@ -25,6 +25,16 @@ Alexander stood in the field. His empire shrank to the size of his sandals.
 
 -----
 
+### Practice
+
+Pause. Notice the ground under your feet.
+
+Ask: *Is this not enough?*
+
+-----
+
+### Dialogue
+
 Student: "What was the sage's teaching?"
 Sage: "The hoofprints in the dust."
 Student: "And Alexander's realization?"
@@ -32,14 +42,7 @@ Sage: "The dust settling again."
 
 -----
 
-### Practice
-
-Pause. Notice the ground under your feet.
-Ask: *Is this not enough?*
-
------
-
-## Three Poisons: Why This Is Not Enough?
+## Three Poisons: Why Is This Not Enough?
 
 Alexander conquered the known world and still thirsted. Why?
 
@@ -47,11 +50,21 @@ Alexander conquered the known world and still thirsted. Why?
 
 **Hatred** ([Dosa / Dveṣa](https://en.wikipedia.org/wiki/Dvesha_%28Buddhism%29)) — the reflex to destroy what resists us. Alexander razed Persepolis. The fire went out. The hatred did not.
 
-**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere — on coins, in prophecies, in the eyes of the terrified. He never saw through the image to the emptiness holding it up.
+**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere. He never saw through to the reality he was standing on.
 
-The three work together: delusion imagines an owner, greed feeds it, hatred defends it. This is the engine of suffering. It runs on its own exhaust.
+This is the engine of suffering. It runs on its own exhaust.
 
 -----
+
+### Practice
+
+Pause. Reflect on today.
+
+Ask: *Did I suffer today? Was I poisoned? By what?*
+
+-----
+
+### Dialogue
 
 Student: "Which poison is worst?"
 Sage: "The one you don't notice."
@@ -60,36 +73,32 @@ Sage: "Who is asking?"
 
 -----
 
-### Practice
-
-When you reach for something, pause.
-Ask: *Is this greed, hatred, or delusion?*
-
------
-
 ## Three Marks: What Is This?
 
 But what is this? What did Alexander glimpse?
 
-**Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. The face stamped on his coin. Clinging to any of it is gripping sand.
+**Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. Clinging to any of it is gripping sand.
 
-**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — There is no fixed "Alexander" inside Alexander. Only a river of sensations, memories, intentions — constantly shifting, constantly mistaken for something solid. The coin bears his face; the face is already changing.
+**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — There is no fixed "Alexander" inside Alexander. Only a river of sensations, memories, intentions — constantly shifting, constantly mistaken for a permanent self.
 
-**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
+**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we imagine. Alexander pressed his will upon the world. The world did not comply.
 
-These three are direct observations of our experience. The sage did not argue them. He stamped the ground. Alexander looked.
-
------
-
-Student: "If nothing is self, who suffers?"
-Sage: "The question suffers."
+These are direct observations of our experience. The sage did not argue them. He stamped the ground. Alexander looked.
 
 -----
 
 ### Practice
 
-Sit. Watch a thought arise. Watch it vanish.
-Ask: *Who was thinking? Who stopped?*
+Sit. Watch thoughts arise. Watch thoughts vanish.
+
+Ask: *Where do thoughts come from? Where do they go? Do they satisfy?*
+
+-----
+
+### Dialogue
+
+Student: "If nothing is self, who suffers?"
+Sage: "The question suffers."
 
 -----
 
@@ -99,24 +108,28 @@ The poisons are habitual. Training is required.
 
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
-**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — See dependent origination. Nothing arises alone. Alexander's ambition required his father's murder, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
+**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
 
-**Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage sat in the field, undisturbed. Alexander and the army arose and fell of their own accord.
+**Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage stood in the field, undisturbed. Alexander and the army arose and fell of their own accord.
 
 The sage had no army, yet stopped Alexander with a stamp.
 
 -----
 
+### Practice
+
+Sit. For five minutes, just breathe. When you wander, return.
+
+Ask: *What should I do with this?*
+
+-----
+
+### Dialogue
+
 Student: "Where do I begin?"
 Sage: "You are already in the field."
 Student: "I don't see any sages."
 Sage: "Stop looking at the army."
-
------
-
-### Practice
-
-For five minutes, just breathe. When you wander, return. Returning is the practice.
 
 -----
 
