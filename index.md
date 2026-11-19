@@ -77,11 +77,11 @@ But what is this? What did Alexander glimpse?
 
 **Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we demand. Alexander demanded permanence from an impermanent world. The world did not comply.
 
-These three are not separate truths. They are one truth seen from three angles: *what changes cannot be owned, what cannot be owned cannot satisfy, what cannot satisfy reveals there was no owner to begin with.*
+These three are direct observations of our experience. The sage did not argue them. He stamped the ground. Alexander looked.
 
 -----
 
-Student: "If there is no self, who suffers?"
+Student: "If nothing is self, who suffers?"
 Sage: "The question suffers."
 
 -----
@@ -95,7 +95,7 @@ Ask: *Who was thinking? Who stopped?*
 
 ## Three Trainings: What To Do With This?
 
-Seeing clearly is not enough. The poisons are habitual. Training is required.
+The poisons are habitual. Training is required.
 
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
@@ -103,7 +103,7 @@ Seeing clearly is not enough. The poisons are habitual. Training is required.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage sat in the field, undisturbed. Alexander and the army arose and fell of their own accord.
 
-The three trainings support each other. They work together to stop the engine. Once the engine stops, no exhaust, no poison.
+The sage had no army, yet stopped Alexander with a stamp.
 
 -----
 
