@@ -984,7 +984,10 @@ It is the great secret."
 — *Tao Te Ching*, ch. 27 (trans. Stephen Mitchell)
 
 
-## Li Si <!--+-->
+## Legalism <!--+-->
+
+
+### Li Si <!--+-->
 
 
 "The ocean does not exclude water; that is why it is large. The mountain does not exclude soil; that is why it is high. A wise lord does not exclude people; that is why he has many subjects."
