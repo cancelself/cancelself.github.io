@@ -81,7 +81,7 @@ But what is this? What did Alexander glimpse?
 
 **Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — No fixed "Alexander" inside Alexander. Sensations, feelings, thoughts — a stream mistaken for a mountain.
 
-**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we imagine. Alexander pressed his will upon the world. The world did not comply.
+**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — The friction between what is and what we demand. Alexander pressed his will upon the world. The world did not comply.
 
 The sage stamped the ground. Alexander looked.
 
