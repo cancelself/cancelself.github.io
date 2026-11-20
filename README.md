@@ -43,15 +43,13 @@ Sage: "The dust settling again."
 
 ## Three Poisons: Why Is This Not Enough?
 
-Alexander conquered the known world and still thirsted. Why?
+Alexander conquered and still thirsted. Why?
 
 **Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. A bottomless cup. Alexander drank whole kingdoms and remained parched.
 
 **Hatred** ([Dosa / Dveṣa](https://en.wikipedia.org/wiki/Dvesha_%28Buddhism%29)) — the reflex to destroy what resists us. Alexander razed Persepolis. The fire went out. The hatred did not.
 
-**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere. He never saw through to the reality he was standing on.
-
-This is the engine of suffering. It runs on its own exhaust.
+**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere.
 
 -----
 
@@ -59,7 +57,7 @@ This is the engine of suffering. It runs on its own exhaust.
 
 Pause. Reflect on today.
 
-Ask: *Did I suffer today? Was I poisoned? By what?*
+Ask: *Why is this not enough?*
 
 -----
 
@@ -81,19 +79,17 @@ But what is this? What did Alexander glimpse?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. Clinging to any of it is gripping sand.
 
-**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — There is no fixed "Alexander" inside Alexander. Only a river of sensations, memories, intentions — constantly shifting, constantly mistaken for a permanent self.
+**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — No fixed "Alexander" inside Alexander. Sensations, feelings, thoughts — a stream mistaken for a mountain.
 
-**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we imagine. Alexander pressed his will upon the world. The world did not comply.
-
-These are direct observations of our experience. The sage did not argue them. He stamped the ground. Alexander looked.
+**Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — The friction between what is and what we demand. Alexander pressed his will upon the world. The world did not comply.
 
 -----
 
 ### Practice
 
-Sit. Watch thoughts arise. Watch thoughts vanish.
+Sit. Watch things arise. Watch things vanish.
 
-Ask: *Where do thoughts come from? Where do they go? Do they satisfy?*
+Ask: *Where do they come from? Where do they go? Do they satisfy?*
 
 -----
 
@@ -111,11 +107,9 @@ The poisons are habitual. Training is required.
 
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another feels like harming yourself — because it is.
 
-**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
+**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage stood in the field, undisturbed. Alexander and the army arose and fell of their own accord.
-
-The sage had no army, yet stopped Alexander with a stamp.
 
 -----
 
@@ -153,7 +147,7 @@ To Mahāyāna and Theravāda — may we meet on the other shore.
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
 
-Within the Zen tradition, students are often asked by their teacher to offer a statement of their current understanding. Thus have I heard…
+Thus have I heard…
 
 ### 無
 
