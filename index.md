@@ -147,7 +147,7 @@ To Mahāyāna and Theravāda — may we meet on the other shore.
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
 
-Within the Zen tradition, students are often asked by their teacher to offer a statement of their current understanding. Thus have I heard…
+Thus have I heard…
 
 ### 無
 
