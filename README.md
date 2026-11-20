@@ -49,7 +49,7 @@ Alexander conquered and still thirsted. Why?
 
 **Hatred** ([Dosa / Dveṣa](https://en.wikipedia.org/wiki/Dvesha_%28Buddhism%29)) — the reflex to destroy what resists us. Alexander razed Persepolis. The fire went out. The hatred did not.
 
-**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere. He never saw through to the reality he was standing on.
+**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere.
 
 This is the engine of suffering. It runs on its own exhaust.
 
