@@ -52,8 +52,6 @@ Alexander conquered and still thirsted. Why?
 
 **Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a separate self that must be fed and defended. Alexander saw "Alexander" everywhere.
 
-This is the engine of suffering. It runs on its own exhaust.
-
 -----
 
 ### Practice
@@ -83,8 +81,6 @@ But what is this? What did Alexander glimpse?
 
 **Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — The friction between what is and what we demand. Alexander pressed his will upon the world. The world did not comply.
 
-The sage stamped the ground. Alexander looked.
-
 -----
 
 ### Practice
@@ -111,8 +107,6 @@ The poisons are habitual. Training is required.
 **Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels. This is not philosophy. This is observation.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage stood in the field, undisturbed. Alexander and the army arose and fell of their own accord.
-
-The sage had no army, yet stopped Alexander with a stamp.
 
 -----
 
