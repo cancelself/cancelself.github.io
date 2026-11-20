@@ -44,7 +44,7 @@ Sage: "The dust settling again."
 
 ## Three Poisons: Why Is This Not Enough?
 
-Alexander conquered the known world and still thirsted. Why?
+Alexander conquered and still thirsted. Why?
 
 **Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. A bottomless cup. Alexander drank whole kingdoms and remained parched.
 
