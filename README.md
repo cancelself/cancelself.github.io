@@ -59,7 +59,7 @@ This is the engine of suffering. It runs on its own exhaust.
 
 Pause. Reflect on today.
 
-Ask: *Did I suffer today? Was I poisoned? By what?*
+Ask: *Was I poisoned today? By what?*
 
 -----
 
