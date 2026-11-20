@@ -87,9 +87,9 @@ But what is this? What did Alexander glimpse?
 
 ### Practice
 
-Sit. Watch thoughts arise. Watch thoughts vanish.
+Sit. Watch things arise. Watch things vanish.
 
-Ask: *Where do thoughts come from? Where do they go? Do they satisfy?*
+Ask: *Where do they come from? Where do they go? Do they satisfy?*
 
 -----
 
