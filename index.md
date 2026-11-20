@@ -83,7 +83,7 @@ But what is this? What did Alexander glimpse?
 
 **Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — Not pain itself, but the friction between what is and what we imagine. Alexander pressed his will upon the world. The world did not comply.
 
-These are direct observations of our experience. The sage did not argue them. He stamped the ground. Alexander looked.
+The sage stamped the ground. Alexander looked.
 
 -----
 
