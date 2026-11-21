@@ -426,12 +426,12 @@ The entire earth is the gate of liberation.
 The entire earth is the single eye of awakening.
 The entire earth is the dharma body of the self."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Yuibutsu Yobutsu" (Only a Buddha and a Buddha)
 
 
 "A small cause can bring forth a large effect. A small condition can bring forth a large result. If you seek the buddha way, recite one verse of praise, chant one refuge, and burn a pinch of incense, then you will certainly become a buddha. Furthermore, if you learn and understand that the reality of all things is not beyond birth, beyond death, beyond beyond birth, beyond beyond death, and practice the act of causation, you will never miss it."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" (Making Offerings to Buddhas), citing Nāgārjuna
 
 
 "unwholesome actions can have lighter results by repenting of them. Wholesome actions can have greater results by rejoicing in them."
@@ -441,47 +441,42 @@ The entire earth is the dharma body of the self."
 
 "Study of the way of confirmation is one rod of iron ten thousand miles long."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Juki" (Confirmation)
 
 
 "This is a splendid opportunity for buddha dharma to freshly enter into mud and water. If you do not realize the fruit at this moment, when will you realize it? If you do not cut off delusion at this moment, when will you cut off delusion? If you do not become a buddha at this moment, when will you? If you do not sit as a buddha at this moment, when will you practice as an active buddha? Diligently examine this in detail."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Kattō" (Twining Vines)
 
 
 "When a chrysanthemum inherits from a chrysanthemum and a pine gives the seal of realization to a pine, the preceding chrysanthemum is one with the following chrysanthemum and the preceding pine is one with the following pine."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Busso" (Buddha Ancestors)
 
 
 "Arriving without moving forward is called the fulfillment of wishes."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Sanjūshichi-hon Bodai-bunpō" (Thirty-seven Wings of Enlightenment), citing Shakyamuni Buddha
 
 
 "To hear words never heard before is to hear these words. To attain what has never existed is to attain this teaching. This is the dharma wheel that cannot be seen or heard without having some inconceivable good fortune."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Shunjū" (Spring and Autumn)
 
 
 "Seeking to be an arhat is to be satisfied with gruel, to be satisfied with cooked rice."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Arakan" (Arhat)
 
 
 "Without knowing the spring pine or the autumn chrysanthemum, how can you nourish others and how can you cut through their roots of confusion?"
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Keisei Sanshoku" (Valley Sounds, Mountain Colors)
 
 
 "When you reach this realm, you are a master of humans and devas. If you teach others before arriving in this realm, you will do great harm to them."
 
-— Dōgen, *Shōbōgenzō*
-
-
-"Aroused aspiration inspires poetic phrases. Words and meaning fully combined is most wondrous and rare, extensively illuminating countless sands throughout the world. Where can you be outside to ask about nirvana?"
-
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Keisei Sanshoku" (Valley Sounds, Mountain Colors)
 
 
 "Pluck out Bodhidharma's eyeball, turn it into a mud ball, and strike a person."
@@ -492,7 +487,7 @@ The entire earth is the dharma body of the self."
 "Although the entire universe is nothing but the dharma body of the self, you should not be hindered by the dharma body. If you are hindered by the dharma body, you will not be able to turn freely, no matter how hard you may try.
 But there should be a way to be free from hindrance. What, then, is the way for all people to be free from hindrance? If you cannot say clearly how to free all people, you will soon lose even the life of the dharma body and sink in the ocean of suffering for a long time."
 
-— Dōgen, *Shōbōgenzō*
+— Dōgen, *Shōbōgenzō*, "Yuibutsu Yobutsu" (Only a Buddha and a Buddha)
 
 
 "Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas."
@@ -511,6 +506,11 @@ I bow to the beginner's mind that lets others awaken first."
 "Once wholesome or unwholesome karma is done, the effects will not disappear even after a hundred, a thousand, or ten thousand eons. One receives the karmic effect when the conditions for that come together."
 
 — Dōgen, *Shōbōgenzō*, "Sanji Gō" (Karmic Retribution in the Three Temporal Periods); speaker given only as the Buddha
+
+
+"Whatever effort it may embody, it is an effortless effort."
+
+— Dōgen, *Shōbōgenzō*, "Sangai Yuishin" (Three Realms Are Inseparable from Mind)
 
 
 #### Fukan Zazengi <!--+-->
@@ -549,9 +549,9 @@ What is this broken wooden ladle?"
 — Dōgen, *Eihei Kōroku*, Volume 10 (verse on Shakyamuni Buddha coming down the mountain)
 
 
-"Whatever effort it may embody, it is an effortless effort."
+"Aroused aspiration inspires poetic phrases. Words and meaning fully combined is most wondrous and rare, extensively illuminating countless sands throughout the world. Where can you be outside to ask about nirvana?"
 
-— attrib. Dōgen (transl. Kazuaki Tanahashi; source pending)
+— Dōgen, *Eihei Kōroku* (Dōgen's Extensive Record), verse "Rhyme of Examination Graduate Wenben"
 
 
 ### Keizan <!--+-->
@@ -607,7 +607,7 @@ On the long, rough road, the sun and the moon will continue to shine, guiding my
 
 "The most precious gift we can offer others is our presence. When mindfulness embraces those we love, they will bloom like flowers."
 
-— Thich Nhat Hanh
+— Thich Nhat Hanh, *Living Buddha, Living Christ*
 
 
 "Dear friends, with humans, gods, brahmans, monastics, and maras as witnesses, I tell you that if I have not experienced directly all that I have told you, I would not proclaim that I am an enlightened person, free from suffering. Because I myself have identified suffering, understood suffering, identified the causes of suffering, removed the causes of suffering, confirmed the existence of well-being, obtained well-being, identified the path to well-being, gone to the end of the path, and realized total liberation, I now proclaim to you that I am a free person."
@@ -619,7 +619,7 @@ On the long, rough road, the sun and the moon will continue to shine, guiding my
 carries a big
 basket filled with words."
 
-— Thich Nhat Hanh
+— Thich Nhat Hanh, *The Diamond That Cuts Through Illusion*
 
 
 "Even if the world is shattered, your smile will never vanish.
@@ -635,11 +635,6 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 
 
 ### Shunryu Suzuki <!--+-->
-
-
-"Moment after moment you must be free from the beautiful form you created, because the moment in which that form existed has already gone, and the next moment is coming up. Life becomes mature constantly. You cannot stop it, not even for a moment, so you have to keep going. You must keep practicing to create this beauty again and again. This is spiritual creativity."
-
-— Shunryu Suzuki
 
 
 "Then what will become of you if you become Buddhist? If you resign from this world, what will become of you is maybe next question. Why you become Buddhist is to resign from this world of suffering. To have perpetual joy we become Buddhist. If you become Buddhist, even though you have no hope for mundane wishes, but instead you will have the freedom from various restriction which you had in your mundane world. You will be free."
@@ -684,6 +679,11 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 
 
 "Life is an emergency case! Where is the emergency? Is it a particular situation, one day of your life? No, every moment of every day is an emergency. You have to do your best to face every moment, because this moment will never come again. The moment that you are living right now is a very important opportunity to make your life vividly alive. If you want to live with spiritual security in the midst of constant change, you have to burn the flame of your life force in everything you do."
+
+— Dainin Katagiri, *Each Moment Is the Universe*
+
+
+"Moment after moment you must be free from the beautiful form you created, because the moment in which that form existed has already gone, and the next moment is coming up. Life becomes mature constantly. You cannot stop it, not even for a moment, so you have to keep going. You must keep practicing to create this beauty again and again. This is spiritual creativity."
 
 — Dainin Katagiri, *Each Moment Is the Universe*
 
