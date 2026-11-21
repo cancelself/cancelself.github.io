@@ -45,7 +45,7 @@ Sage: "The dust settling again."
 
 Alexander conquered and still thirsted. Why?
 
-**Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. A bottomless cup. Alexander drank whole kingdoms and remained parched.
+**Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. A bottomless cup.
 
 **Hatred** ([Dosa / Dveṣa](https://en.wikipedia.org/wiki/Dvesha_%28Buddhism%29)) — the reflex to destroy what resists us. Alexander razed Persepolis. The fire went out. The hatred did not.
 
