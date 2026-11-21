@@ -221,7 +221,7 @@ Dizang said, 'Not knowing is most intimate.'"
 — Dōgen, *Shōbōgenzō*, "Genjōkōan"
 
 
-"ACTUALIZING THE FUNDAMENTAL point, you realize the great road maintained by all buddhas.
+"Actualizing the fundamental point, you realize the great road maintained by all buddhas.
 'You are like this. I am like this. Keep it well,' is revealed."
 
 — Dōgen, *Shōbōgenzō*, "Genjōkōan" (Actualizing the Fundamental Point)
@@ -248,8 +248,8 @@ Baling said, 'When it is cold, a rooster climbs the tree and a duck gets into wa
 — Dōgen, *Shōbōgenzō*, "Hokke ten Hokke" (The Lotus Turns the Lotus), citing Baling
 
 
-"'Being delighted even for a moment is those who hear. At this moment, there is no room to set skin, flesh, bones, or marrow on your head.
-Being given this confirmation of unsurpassable, complete enlightenment means, 'My wish is already fulfilled.' Be a skin bag like this. Thus, all wishes are fulfilled. In this way, there are people who are called those who hear.'"
+"Being delighted even for a moment is those who hear. At this moment, there is no room to set skin, flesh, bones, or marrow on your head.
+Being given this confirmation of unsurpassable, complete enlightenment means, 'My wish is already fulfilled.' Be a skin bag like this. Thus, all wishes are fulfilled. In this way, there are people who are called those who hear."
 
 — Dōgen, *Shōbōgenzō*, "Hokke ten Hokke" (The Lotus Turns the Lotus)
 
@@ -282,7 +282,7 @@ This is the understanding of a realized buddha. We should reflect on it. This is
 
 "Huineng, Zen Master Dajian of Mount Caoxi, once instructed Nanyue, who would later become Zen Master Dahui:
 'What is it that thus comes?'
-Study thoroughly his statement that all things are invari ably what, as what is beyond doubt, beyond understanding, but, just what. Study thoroughly that the one thing is no other than what. What is not to be doubted. What thus comes."
+Study thoroughly his statement that all things are invariably what, as what is beyond doubt, beyond understanding, but, just what. Study thoroughly that the one thing is no other than what. What is not to be doubted. What thus comes."
 
 — Dōgen, *Shōbōgenzō*, "Immo" (Thusness), citing the Huineng / Nanyue exchange
 
@@ -342,7 +342,7 @@ Then the nun attained the pure dharma eye and also became able to see with her e
 — Dōgen, *Shōbōgenzō*, "Kūge" (Flowers in the Sky / Sky Flowers)
 
 
-"Only buddhas and ancestors know the opening and falling of flowers in the sky [sky blossoms] and earth blossoms, and the opening and falling of world blossoms. They alone know that flowers in the sky, earth blossoms, and world blossoms are sutras. This is a standard of studying buddhas"
+"Only buddhas and ancestors know the opening and falling of flowers in the sky [sky blossoms] and earth blossoms, and the opening and falling of world blossoms. They alone know that flowers in the sky, earth blossoms, and world blossoms are sutras. This is a standard of studying buddhas."
 
 — Dōgen, *Shōbōgenzō*, "Kūge" (Flowers in the Sky)
 
@@ -367,7 +367,7 @@ You may think that in mountains many wise people and great sages are assembled. 
 
 
 "In the practice places of buddha ancestors, there is always the awesome practice of this cleansing. Among those who practice in the practice places of buddha ancestors, there is always the awesome practice of this cleansing. Cleansing is not forced by the self, but is the conduct of awesome practice itself.
-Cleansing is the continuous procedure of all buddhas. Cleansing is the everyday activity of all ancestors. It is the buddha procedure not only of all buddhas in this realm, but of bud-dhas in the ten directions. It is the buddha procedure of the pure land and impure land."
+Cleansing is the continuous procedure of all buddhas. Cleansing is the everyday activity of all ancestors. It is the buddha procedure not only of all buddhas in this realm, but of buddhas in the ten directions. It is the buddha procedure of the pure land and impure land."
 
 — Dōgen, *Shōbōgenzō*, "Senjō" (Washing/Cleansing)
 
@@ -416,7 +416,7 @@ When you refrain from unwholesome actions, are not attached to birth and death, 
 — Dōgen, *Shōbōgenzō*, "Uji" (Being-Time)
 
 
-"Mind is the moment of actualizing the fundamental point; words are the moment of going beyond, unlocking the barrier. Arriving is the moment of casting off the body; not-arriving is the moment of being one with just this, while being free from just this. In this way you must endeavor to actualize the time being"
+"Mind is the moment of actualizing the fundamental point; words are the moment of going beyond, unlocking the barrier. Arriving is the moment of casting off the body; not-arriving is the moment of being one with just this, while being free from just this. In this way you must endeavor to actualize the time being."
 
 — Dōgen, *Shōbōgenzō*, "Uji" (Being-Time)
 
@@ -490,45 +490,9 @@ The entire earth is the dharma body of the self."
 
 
 "Although the entire universe is nothing but the dharma body of the self, you should not be hindered by the dharma body. If you are hindered by the dharma body, you will not be able to turn freely, no matter how hard you may try.
-But there should be a way to be free from hindrance. What, then, is the way for all people to be free from hindrance? If you cannot say clearly how to free all people, you will soon lose even the life of the dharma body and sink in the ocean of suffering for a long time"
+But there should be a way to be free from hindrance. What, then, is the way for all people to be free from hindrance? If you cannot say clearly how to free all people, you will soon lose even the life of the dharma body and sink in the ocean of suffering for a long time."
 
 — Dōgen, *Shōbōgenzō*
-
-
-#### Fukan Zazengi <!--+-->
-
-
-"Zazen is the dharma gate of enjoyment and ease."
-
-— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
-
-
-"THE REAL WAY CIRCULATES everywhere; how could it require practice or enlightenment? The essential teaching is fully available; how could effort be necessary? Furthermore, the entire mirror is free of dust; why take steps to polish it? Nothing is separate from this very place; why journey away?"
-
-— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
-
-
-#### Gakudō Yōjinshū <!--+-->
-
-
-"If ever you value fame and gain, then be compassionate to fame and gain. If you are compassionate to fame and gain, you will not allow them to break the body that can become a bud-dha ancestor. Being compassionate to family and relatives is also like this. Do not think that fame and gain are phantoms and illusions, but regard them as sentient beings. If you are not compassionate to fame and gain, you will accumulate unwholesome actions. The true eye of study should be like this."
-
-— Dōgen, *Gakudō Yōjinshū* (Points to Watch in Practicing the Way)
-
-
-#### Eihei Kōroku <!--+-->
-
-
-"A sack of flowing wind tied around his waist,
-He stole the wind in the pines to insert or bring forth.
-Then twirling a branch of winter plum blossoms to sell,
-He came and went under the heavens, planning to find a buyer.
-After six years of bitter ascetic practice,
-He attained awakening in one sitting.
-Glimpsing the ground and arising, how laughable!
-What is this broken wooden ladle?"
-
-— Dōgen, *Eihei Kōroku*, Volume 10 (verse on Shakyamuni Buddha coming down the mountain)
 
 
 "Thus, the flowers and fruit of one hundred grasses are my beings of all buddhas. Rocks and stones, large and small, are my beings of all buddhas."
@@ -547,6 +511,42 @@ I bow to the beginner's mind that lets others awaken first."
 "Once wholesome or unwholesome karma is done, the effects will not disappear even after a hundred, a thousand, or ten thousand eons. One receives the karmic effect when the conditions for that come together."
 
 — Dōgen, *Shōbōgenzō*, "Sanji Gō" (Karmic Retribution in the Three Temporal Periods); speaker given only as the Buddha
+
+
+#### Fukan Zazengi <!--+-->
+
+
+"Zazen is the dharma gate of enjoyment and ease."
+
+— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
+
+
+"THE REAL WAY CIRCULATES everywhere; how could it require practice or enlightenment? The essential teaching is fully available; how could effort be necessary? Furthermore, the entire mirror is free of dust; why take steps to polish it? Nothing is separate from this very place; why journey away?"
+
+— Dōgen, *Fukan Zazengi* (Universal Recommendations for Zazen)
+
+
+#### Gakudō Yōjinshū <!--+-->
+
+
+"If ever you value fame and gain, then be compassionate to fame and gain. If you are compassionate to fame and gain, you will not allow them to break the body that can become a buddha ancestor. Being compassionate to family and relatives is also like this. Do not think that fame and gain are phantoms and illusions, but regard them as sentient beings. If you are not compassionate to fame and gain, you will accumulate unwholesome actions. The true eye of study should be like this."
+
+— Dōgen, *Gakudō Yōjinshū* (Points to Watch in Practicing the Way)
+
+
+#### Eihei Kōroku <!--+-->
+
+
+"A sack of flowing wind tied around his waist,
+He stole the wind in the pines to insert or bring forth.
+Then twirling a branch of winter plum blossoms to sell,
+He came and went under the heavens, planning to find a buyer.
+After six years of bitter ascetic practice,
+He attained awakening in one sitting.
+Glimpsing the ground and arising, how laughable!
+What is this broken wooden ladle?"
+
+— Dōgen, *Eihei Kōroku*, Volume 10 (verse on Shakyamuni Buddha coming down the mountain)
 
 
 "Whatever effort it may embody, it is an effortless effort."
@@ -610,7 +610,7 @@ On the long, rough road, the sun and the moon will continue to shine, guiding my
 — Thich Nhat Hanh
 
 
-"Dear friends, with humans, gods, brahmans, monastics, and maras' as witnesses, I tell you that if I have not experienced directly all that I have told you, I would not proclaim that I am an enlightened person, free from suffering. Because I myself have identified suffering, understood suffering, identified the causes of suffering, removed the causes of suffering, confirmed the existence of well-being, obtained well-being, identified the path to well-being, gone to the end of the path, and realized total liberation, I now proclaim to you that I am a free person."
+"Dear friends, with humans, gods, brahmans, monastics, and maras as witnesses, I tell you that if I have not experienced directly all that I have told you, I would not proclaim that I am an enlightened person, free from suffering. Because I myself have identified suffering, understood suffering, identified the causes of suffering, removed the causes of suffering, confirmed the existence of well-being, obtained well-being, identified the path to well-being, gone to the end of the path, and realized total liberation, I now proclaim to you that I am a free person."
 
 — Buddha's enlightenment declaration, paraphrase by Thich Nhat Hanh in *Old Path White Clouds*
 
@@ -652,7 +652,7 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 — Shunryu Suzuki, *Zen Mind, Beginner's Mind*
 
 
-"'When you say 'Yes!' you forget all about yourself and are refreshed into some new self. Before the new self becomes an old self, you should say another 'Yes!''"
+"When you say 'Yes!' you forget all about yourself and are refreshed into some new self. Before the new self becomes an old self, you should say another 'Yes!'"
 
 — Shunryu Suzuki, *Zen Mind, Beginner's Mind*
 
@@ -691,7 +691,7 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 ### Bernie Glassman <!--+-->
 
 
-"'When we live our life fully, using all the ingredients at hand, our life becomes what Zen Buddhists call 'the supreme meal.' A person who knows how to plan, cook, appreciate, and offer the supreme meal of life, is called a Zen cook'"
+"When we live our life fully, using all the ingredients at hand, our life becomes what Zen Buddhists call 'the supreme meal.' A person who knows how to plan, cook, appreciate, and offer the supreme meal of life, is called a Zen cook."
 
 — Bernie Glassman & Rick Fields, *Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters*
 
@@ -721,12 +721,7 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 — *Maraṇasati Sutta*, Anguttara Nikāya 6.20 (trans. Thanissaro)
 
 
-"To say 'it is' is to grasp for permanence. To say 'it is not' is to adopt the view of nihilism. Therefore a wise person does not say 'exists' or 'does not exist.'"
-
-— *Kaccānagotta Sutta*, Saṃyutta Nikāya 12.15
-
-
-"This is not mine, this I am not, this is not my self. This is not mine, this I am not, this is not my self."
+"This is not mine, this I am not, this is not my self."
 
 — Pali Canon, the anatta contemplation formula (e.g., *Anattalakkhana Sutta*, SN 22.59)
 
@@ -786,7 +781,7 @@ They meditate observing an aspect of boundlessness—keen, aware, and mindful, r
 
 "Drawing in the mind's thoughts as a tortoise draws its limbs into its shell. Independent, not harassing others, fully quenched, a practitioner of the way would not blame anyone."
 
-— *Dhammapada* 25 (also Sutta Nipāta)
+— *Dukkara Sutta*, Saṃyutta Nikāya 1.17
 
 
 "Wide open are the doors to the Deathless. Let those with ears to hear make sure their faith."
@@ -808,11 +803,6 @@ They meditate observing an aspect of boundlessness—keen, aware, and mindful, r
 "I recall sitting in the cool shade of the rose-apple tree while my father the Sakyan was off working. Quite secluded from sensual pleasures, secluded from unskillful qualities, I entered and remained in the first absorption, which has the rapture and bliss born of seclusion, while placing the mind and keeping it connected. Could that be the path to awakening? Stemming from that memory came the realization: 'That is the path to awakening!'"
 
 — *Mahāsaccaka Sutta*, Majjhima Nikāya 36 (the Buddha recalling his childhood meditation)
-
-
-"I have attained this dharma, which is profound, hard to see, hard to understand, always peaceful, tranquil, subtle, understood only by those with the highest wisdom, not accessed by deluded ones. Beings differ from one another in various ways: they have differing views, capacities for toleration, desires, and lives. As a result of their various views, beings take pleasure in their attachments. Because they take pleasure in attachments, the profound dharma of dependent origination becomes difficult for them to understand. There is something else that is too profound for them to understand: when desires cease and craving is exhausted, nirvana arises. Because this is also hard to see, if I were to preach this dharma, others would not comprehend it, and my effort would be in vain."
-
-— *Ariyapariyesanā Sutta*, Majjhima Nikāya 26 (the Buddha’s hesitation after enlightenment)
 
 
 "For a generation delighting in attachment, excited by attachment, enjoying attachment, this/that conditionality and dependent co-arising are hard to see. This state, too, is hard to see: the resolution of all fabrications, the relinquishment of all acquisitions, the ending of craving; dispassion; cessation; Unbinding. And if I were to teach the Way and if others would not understand me, that would be tiresome for me, troublesome for me."
@@ -893,7 +883,7 @@ This is the teaching of all buddhas."
 — *Lotus Sutra*, burning house parable, chapter 3
 
 
-"Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who come in front of the Buddha who hear one verse or phrase of the Sutra of Wondrous Dharma Blossoms, and are delighted even for a moment . . . they will attain unsurpassable, complete enlightenment"
+"Shakyamuni Buddha said to Bhaishajyaraja Bodhisattva, if there are those who come in front of the Buddha who hear one verse or phrase of the Sutra of Wondrous Dharma Blossoms, and are delighted even for a moment . . . they will attain unsurpassable, complete enlightenment."
 
 — *Lotus Sutra (Saddharmapuṇḍarīka)*, "Bhaiṣajyarāja" chapter
 
@@ -914,6 +904,11 @@ This is the teaching of all buddhas."
 — Nāgārjuna (quoted in Dōgen, *Shōbōgenzō*, "Kuyō Shobutsu" — Making Offerings to Buddhas)
 
 
+"To say 'it is' is to grasp for permanence. To say 'it is not' is to adopt the view of nihilism. Therefore a wise person does not say 'exists' or 'does not exist.'"
+
+— Nāgārjuna, *Mūlamadhyamakakārikā* 15.10 (cf. *Kaccānagotta Sutta*, SN 12.15)
+
+
 ### Liturgy <!--+-->
 
 
@@ -927,7 +922,7 @@ This is the teaching of all buddhas."
 — traditional Mahāyāna repentance verse (cf. *Sange Mon*)
 
 
-"The fulfillment of vows, the completion of wishes, full rejoicing"
+"The fulfillment of vows, the completion of wishes, full rejoicing."
 
 — traditional Pali anumodana (dedication of merit) blessing
 
