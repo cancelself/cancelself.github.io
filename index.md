@@ -77,9 +77,9 @@ But what is this? What did Alexander glimpse?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. Clinging to any of it is gripping sand.
 
-**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — No fixed "Alexander" inside Alexander. Sensations, feelings, thoughts — a stream mistaken for a mountain.
-
 **Dissatisfaction** ([Dukkha / Duḥkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) — The friction between what is and what we demand. Alexander pressed his will upon the world. The world did not comply.
+
+**Non-Self** ([Anattā / Anātman](https://en.wikipedia.org/wiki/Anatta)) — No fixed "Alexander" inside Alexander. Sensations, feelings, thoughts — a stream mistaken for a mountain.
 
 -----
 
@@ -102,11 +102,11 @@ Sage: "The question suffers."
 
 The poisons are habitual. Training is required.
 
-**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels.
-
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another is harming yourself.
 
 **Concentration** ([Samādhi](https://en.wikipedia.org/wiki/Sam%C4%81dhi_%28Buddhism%29)) — Gather the mind and rest. The sage stood in the field, undisturbed. Alexander and the army arose and fell of their own accord.
+
+**Wisdom** ([Paññā / Prajñā](https://en.wikipedia.org/wiki/Praj%C3%B1%C4%81_%28Buddhism%29)) — Nothing arises alone. Alexander's ambition required his father's death, his tutor's maps, his soldiers' obedience, grain from conquered fields. Pull one thread and the conqueror unravels.
 
 -----
 
