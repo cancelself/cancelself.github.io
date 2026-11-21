@@ -696,14 +696,6 @@ Since the sunflower is already there, all flowers turn toward it and contemplate
 — Bernie Glassman & Rick Fields, *Instructions to the Cook: A Zen Master's Lessons in Living a Life That Matters*
 
 
-### Joseph Goldstein <!--+-->
-
-
-"Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it."
-
-— Joseph Goldstein, *The Experience of Insight: A Simple & Direct Guide to Buddhist Meditation*
-
-
 ### Shinshu Roberts <!--+-->
 
 
@@ -857,6 +849,14 @@ This is the teaching of all buddhas."
 "Monks ought to behave like a grinding stone. One comes to sharpen her knife. Another comes to grind his ax. Everybody who wants to have their metals improved in any way makes use of the stone. Each time the stone is rubbed it wears out, but it makes no complaint nor does it boast of its usefulness. Those who come, go home benefited; some of them may not be quite appreciative of the stone, but the stone remains ever content."
 
 — Ajahn Chah, *No Ajahn Chah* (Abhayagiri Monastery)
+
+
+### Joseph Goldstein <!--+-->
+
+
+"Every moment of awareness is a hammer stroke on this chain of conditioning, Striking it with the force of wisdom and awareness, the chain gets weaker and weaker until it breaks. What we are doing here is penetrating into the truth of the Law of Dependent Origination, and freeing our minds from it."
+
+— Joseph Goldstein, *The Experience of Insight: A Simple & Direct Guide to Buddhist Meditation*
 
 
 ## Mahāyāna <!--+-->
