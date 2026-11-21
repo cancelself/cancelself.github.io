@@ -89,7 +89,7 @@ But what is this? What did Alexander glimpse?
 
 Sit. Watch things arise. Watch things vanish.
 
-Ask: *Where do they come from? Where do they go? Do they satisfy?*
+Ask: *What is this?*
 
 -----
 
