@@ -41,11 +41,11 @@ Sage: "To get your attention."
 
 Alexander conquered and still thirsted. Why?
 
-**Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. At the Hyphasis his army would go no further. He sulked three days in his tent. A bottomless cup.
+**Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29)) — the conviction that fulfillment is always one conquest away. At the Hyphasis, his army would go no further. He sulked three days in his tent.
 
 **Hatred** ([Dosa / Dveṣa](https://en.wikipedia.org/wiki/Dvesha_%28Buddhism%29)) — the reflex to destroy what resists us. Alexander razed Persepolis. The fire went out. The hatred did not.
 
-**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a permanent self that must be fed and defended. At Siwa the oracle called him son of god, and he believed it.
+**Delusion** ([Moha](https://en.wikipedia.org/wiki/Moha_%28Buddhism%29)) — the root. The belief in a permanent self that must be fed and defended. At Siwa, the oracle called him son of god, and he believed it.
 
 -----
 
@@ -140,8 +140,6 @@ To Mahāyāna and Theravāda — may we meet on the other shore.
 ## Expression <!--+-->
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
-
-Thus have I heard…
 
 ### 無
 
