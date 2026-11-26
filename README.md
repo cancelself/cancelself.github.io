@@ -39,7 +39,7 @@ Sage: "To get your attention."
 
 ## Three Poisons: Why Is This Not Enough?
 
-Alexander conquered and still thirsted. Why?
+Alexander conquered and still thirsted. Why? He was poisoned.
 
 **Greed** ([Rāga](https://en.wikipedia.org/wiki/Raga_%28Buddhism%29) / [Lobha](https://en.wikipedia.org/wiki/Lobha)) — the conviction that fulfillment is always one conquest away. At the Hyphasis, his army would go no further. He sulked three days in his tent.
 
@@ -51,7 +51,7 @@ Alexander conquered and still thirsted. Why?
 
 ### Practice
 
-Pause. Reflect on today.
+Pause. Reflect on this moment.
 
 Ask: *Why is this not enough?*
 
@@ -155,8 +155,6 @@ Investigating thus,
 insight mirrors,  
 waving fields,  
 polishing nothing.
-
-The treasury of the dharma eye entrusted:
 
 += nothing to add,  
 -= nothing to delete,  
