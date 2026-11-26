@@ -11,7 +11,7 @@
 
 ## The Field
 
-Alexander crossed continents, leaving nations buried in hoofprints. He arrived at a field where sages stood, unmoved by the dust of his army.
+Alexander crossed continents, leaving bodies buried in hoofprints. He arrived at a field where sages stood, unmoved by the dust of his army.
 
 A sage stamped the ground.
 
@@ -71,7 +71,7 @@ Sage: "Who is asking?"
 
 ## Three Marks: What Is This?
 
-But what is this? What did Alexander glimpse?
+What did Alexander glimpse in the field?
 
 **Impermanence** ([Anicca / Anitya](https://en.wikipedia.org/wiki/Impermanence)) — Everything that arises, passes. Alexander's empire. Alexander's body. Clinging to any of it is gripping sand.
 
@@ -99,7 +99,7 @@ Sage: "The moment suffers."
 
 ## Three Trainings: What To Do With This?
 
-The poisons are habitual. Training is required.
+The poisons are habitual. Training is the antidote.
 
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another is harming yourself.
 
@@ -133,11 +133,11 @@ Alexander died at thirty-two in Babylon. The field is still here.
 
 -----
 
-## Dedication <!--+-->
+## Dedication <!---->
 
 To Mahāyāna and Theravāda — may we meet on the other shore.
 
-## Expression <!--+-->
+## Expression <!---->
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
 
@@ -160,7 +160,7 @@ polishing nothing.
 -= nothing to delete,  
 := nothing is complete.
 
-## Jisei (辞世) <!--+-->
+## Jisei (辞世) <!---->
 
 > For fifty-five years, a restless flame.
 > Now leaping beyond the ocean gate, steam rises.

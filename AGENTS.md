@@ -10,6 +10,8 @@ Headings written with a trailing `<!--+-->` HTML comment (e.g. `## Expression <!
 
 A `<details>` block stays open until the next heading at the same or a higher level, or end of file. Lower-level headings remain inside it. Lower-level headings with their own `<!--+-->` markers create nested disclosures, allowing documents such as `inspiration.md` to render as an outline.
 
+Write `<!---->` instead of `<!--+-->` (e.g. `## Dedication <!---->`) to render the same disclosure **open** by default; readers can still collapse it.
+
 Use this for sections that are part of the document but should not demand the reader's attention on first read (e.g. personal expression pieces, appendices). Use plain `## Heading` for sections that should always render expanded.
 
 Do **not** strip the `<!--+-->` marker. The earlier `##+ Heading` form was replaced by this convention so that the same source renders correctly in both Jekyll and GitHub's native markdown view (see commit `849e8de`).
