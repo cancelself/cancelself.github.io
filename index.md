@@ -92,7 +92,7 @@ Ask: *What is this?*
 ### Dialogue
 
 Student: "If nothing is self, who suffers?"
-Sage: "The question suffers."
+Sage: "The moment suffers."
 
 -----
 
@@ -158,7 +158,7 @@ polishing nothing.
 
 ## Jisei (辞世) <!--+-->
 
-> For fifty-five years, a purifying flame.
+> For fifty-five years, a restless flame.
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 
