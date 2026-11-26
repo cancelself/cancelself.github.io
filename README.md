@@ -99,7 +99,7 @@ Sage: "The moment suffers."
 
 ## Three Trainings: What To Do With This?
 
-The poisons are habitual. Training is the antidote.
+The poisons are habitual. Practice is the antidote.
 
 **Virtue** ([Sīla / Śīla](https://en.wikipedia.org/wiki/Buddhist_ethics)) — Do no harm. Not as commandment, but as consequence of seeing clearly. When the illusion of separation thins, harming another is harming yourself.
 
