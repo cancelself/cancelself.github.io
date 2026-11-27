@@ -181,14 +181,14 @@
           continue;
         }
 
-        var collapseMatch = line.match(/^(#{1,6}) (.+?) <!--([+-])-->\s*$/);
+        var collapseMatch = line.match(/^(#{1,6}) (.+?) <!--(\+?)-->\s*$/);
 
         if (collapseMatch) {
           var level = collapseMatch[1].length;
           closeDetailsAtOrAbove(level);
 
           var currentDetails = document.createElement('details');
-          if (collapseMatch[3] === '-') currentDetails.open = true;
+          if (collapseMatch[3] === '+') currentDetails.open = true;
           var summary = document.createElement('summary');
           summary.textContent = collapseMatch[1] + ' ' + collapseMatch[2];
           currentDetails.appendChild(summary);

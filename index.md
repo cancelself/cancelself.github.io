@@ -129,11 +129,11 @@ Alexander died at thirty-two in Babylon. The field is still here.
 
 -----
 
-## Dedication <!---->
+## Dedication <!--+-->
 
 To Mahāyāna and Theravāda — may we meet on the other shore.
 
-## Expression <!---->
+## Expression <!--+-->
 
 > "All buddhas and all ancestors are expressions. Thus, when buddha ancestors intend to select buddha ancestors, they always ask, 'Do you have your expression?'" — [Dōgen](https://en.wikipedia.org/wiki/D%C5%8Dgen)
 
@@ -156,11 +156,11 @@ polishing nothing.
 -= nothing to delete,  
 := nothing is complete.
 
-## Jisei (辞世) <!---->
+## Jisei (辞世) <!--+-->
 
 > For fifty-five years, a restless flame.
 > Now leaping beyond the ocean gate, steam rises.
 > Amazing! Who knew fire + water were so connected?
 
-## Inspiration <!--+-->
+## Inspiration <!---->
 <!-- inspiration-outline -->
