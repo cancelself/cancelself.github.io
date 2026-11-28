@@ -163,8 +163,8 @@ polishing nothing.
 ## Jisei (辞世) <!--+-->
 
 > For fifty-five years, a restless flame.
-> Now leaping beyond the ocean gate, steam rises.
-> Amazing! Who knew fire + water were so connected?
+Now leaping beyond the ocean gate, steam rises.
+Amazing! Who knew fire + water were so connected?
 
 ## Inspiration <!---->
 <!-- inspiration-outline -->
