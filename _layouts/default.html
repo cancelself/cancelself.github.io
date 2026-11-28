@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="icon" type="image/jpeg" href="{{ '/mu.jpg' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/mu.jpg' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #c0c0c0;
+      color: #555;
+      font-family: 'JetBrains Mono', 'Berkeley Mono', 'IBM Plex Mono', 'Fira Code', monospace;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.8;
+      padding: 40px 24px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    #content {
+      max-width: 760px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 48px 40px;
+      border: 1px solid #999;
+      box-shadow: 1px 1px 0 #888;
+    }
+
+    .md-h1 { font-weight: 700; color: #000; }
+    .md-h2 { font-weight: 700; color: #000; }
+    .md-h3 { font-weight: 700; color: #000; }
+    .md-h4 { font-weight: 700; color: #000; }
+    .md-blockquote { color: #555; font-style: italic; }
+    .md-hr { color: #999; }
+    .md-blank { height: 0.8em; }
+    .md-p { }
+
+    .md-bold { font-weight: 700; color: #000; }
+    .md-italic { font-style: italic; }
+    .md-link { color: #0055aa; text-decoration: underline; }
+    .md-link:hover { color: #003377; }
+
+    details { margin-top: 0.4em; }
+    details summary {
+      font-weight: 700;
+      color: #000;
+      cursor: pointer;
+      list-style: none;
+    }
+    details summary::-webkit-details-marker { display: none; }
+    details summary::before {
+      content: '▶ ';
+      font-size: 0.9em;
+      display: inline-flex;
+      align-items: center;
+      height: 1em;
+      color: #888;
+      margin-right: 0.3em;
+    }
+    details[open] > summary::before {
+      content: '▼ ';
+    }
+    details .md-details-body {
+      padding-top: 0.4em;
+      padding-left: 1.4em;
+    }
+    details .md-details-body > details:first-child {
+      margin-top: 0;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body { background: #0e0e0e; color: #ccc; }
+      #content { background: #1c1c1c; border-color: #333; box-shadow: 1px 1px 0 #000; }
+      .md-h1, .md-h2, .md-h3, .md-h4, .md-bold, details summary { color: #fff; }
+      .md-blockquote { color: #aaa; }
+      .md-hr { color: #555; }
+      .md-link { color: #6cb6ff; }
+      .md-link:hover { color: #9ccdff; }
+      details summary::before { color: #888; }
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 16px 10px;
+      }
+
+      #content {
+        padding: 28px 20px;
+      }
+
+      details .md-details-body {
+        padding-left: 1em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="content"></div>
+  {% assign inspiration_page = site.pages | where: "path", "inspiration.md" | first %}
+  <script>
+    var raw = {{ page.content | jsonify }};
+    var inspirationRaw = {{ inspiration_page.content | jsonify }};
+    var container = document.getElementById('content');
+
+    function renderLine(line, parent) {
+      var div = document.createElement('div');
+
+      if (line.match(/^\s*$/)) {
+        div.className = 'md-blank';
+      } else if (line.match(/^#### /)) {
+        div.className = 'md-h4';
+        div.textContent = line;
+      } else if (line.match(/^### /)) {
+        div.className = 'md-h3';
+        div.textContent = line;
+      } else if (line.match(/^## /)) {
+        div.className = 'md-h2';
+        div.textContent = line;
+      } else if (line.match(/^# /)) {
+        div.className = 'md-h1';
+        div.textContent = line;
+      } else if (line.match(/^-{3,}$/)) {
+        div.className = 'md-hr';
+        div.textContent = line;
+      } else if (line.match(/^> /) || (parent.lastElementChild && parent.lastElementChild.classList.contains('md-blockquote'))) {
+        div.className = 'md-blockquote';
+        div.innerHTML = escapeHtml(line).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a class="md-link" href="$2" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<span class="md-bold">**$1**</span>').replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<span class="md-italic">*$1*</span>');
+      } else {
+        div.className = 'md-p';
+        div.innerHTML = escapeHtml(line).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a class="md-link" href="$2" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<span class="md-bold">**$1**</span>').replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<span class="md-italic">*$1*</span>');
+      }
+
+      parent.appendChild(div);
+    }
+
+    function offsetHeading(line, offset) {
+      var headingMatch = line.match(/^(#{1,6})( .*)$/);
+      if (!headingMatch || !offset) {
+        return line;
+      }
+      return '#'.repeat(Math.min(headingMatch[1].length + offset, 6)) + headingMatch[2];
+    }
+
+    function renderDocument(lines, root, headingOffset, skipTitle) {
+      var detailStack = [];
+      var contentStarted = !skipTitle;
+
+      function closeDetailsAtOrAbove(level) {
+        while (detailStack.length && detailStack[detailStack.length - 1].level >= level) {
+          detailStack.pop();
+        }
+      }
+
+      function currentParent() {
+        if (detailStack.length) {
+          return detailStack[detailStack.length - 1].body;
+        }
+        return root;
+      }
+
+      for (var i = 0; i < lines.length; i++) {
+        var line = offsetHeading(lines[i], headingOffset);
+
+        if (skipTitle && line.match(/^#{1,6} Inspiration\s*$/)) {
+          continue;
+        }
+
+        if (!contentStarted && line.match(/^\s*$/)) {
+          continue;
+        }
+        contentStarted = true;
+
+        if (line.trim() === '<!-- inspiration-outline -->') {
+          renderDocument(inspirationRaw.split('\n'), currentParent(), 1, true);
+          continue;
+        }
+
+        var collapseMatch = line.match(/^(#{1,6}) (.+?) <!--(\+?)-->\s*$/);
+
+        if (collapseMatch) {
+          var level = collapseMatch[1].length;
+          closeDetailsAtOrAbove(level);
+
+          var currentDetails = document.createElement('details');
+          if (collapseMatch[3] === '+') currentDetails.open = true;
+          var summary = document.createElement('summary');
+          summary.textContent = collapseMatch[1] + ' ' + collapseMatch[2];
+          currentDetails.appendChild(summary);
+          var detailsBody = document.createElement('div');
+          detailsBody.className = 'md-details-body';
+          currentDetails.appendChild(detailsBody);
+          var parent = currentParent();
+          while (parent.lastElementChild && parent.lastElementChild.classList.contains('md-blank')) {
+            parent.lastElementChild.remove();
+          }
+          parent.appendChild(currentDetails);
+          detailStack.push({ level: level, body: detailsBody });
+          continue;
+        }
+
+        var headingMatch = line.match(/^(#{1,6}) /);
+        if (headingMatch) {
+          closeDetailsAtOrAbove(headingMatch[1].length);
+        }
+
+        renderLine(line, currentParent());
+      }
+    }
+
+    renderDocument(raw.split('\n'), container, 0, false);
+
+    function escapeHtml(text) {
+      var d = document.createElement('div');
+      d.textContent = text;
+      return d.innerHTML;
+    }
+  </script>
+</body>
+</html>
