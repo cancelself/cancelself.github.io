@@ -128,7 +128,7 @@
       } else if (line.match(/^-{3,}$/)) {
         div.className = 'md-hr';
         div.textContent = line;
-      } else if (line.match(/^> /)) {
+      } else if (line.match(/^> /) || (parent.lastElementChild && parent.lastElementChild.classList.contains('md-blockquote'))) {
         div.className = 'md-blockquote';
         div.innerHTML = escapeHtml(line).replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a class="md-link" href="$2" target="_blank" rel="noopener">$1</a>').replace(/\*\*(.+?)\*\*/g, '<span class="md-bold">**$1**</span>').replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<span class="md-italic">*$1*</span>');
       } else {
